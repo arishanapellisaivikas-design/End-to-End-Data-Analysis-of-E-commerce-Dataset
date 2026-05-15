@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Order_Date,Region,Category,Product_Name,Quantity,Unit_Price,Discount,Sales_Amount,Profit,Payment_Method,Customer_Type,Sales_Channel
+ORD0001,CUST2424,2024-07-12,West,Electronics,Laptop,5,504.89,0.04,2423.47,170.85,Credit Card,New,Online
+ORD0002,CUST9928,2024-12-19,West,Clothing,Jeans,9,1212.0,0.17,9053.64,1749.2,Debit Card,Returning,Retail
+ORD0003,CUST2674,2023-12-11,North,Electronics,Smartphone,7,693.7,0.05,4613.11,1113.8,Cash,New,Retail
+ORD0004,CUST2291,2024-01-23,East,Furniture,Sofa,1,1464.87,0.16,1230.49,301.01,Net Banking,Returning,Online
+ORD0005,CUST7227,2023-04-14,East,Electronics,Laptop,4,1550.68,0.3,4341.9,959.84,Cash,Returning,Online
+ORD0006,CUST3803,2023-03-15,South,Furniture,Sofa,4,1346.95,0.21,4256.36,794.7,Debit Card,Returning,Retail
+ORD0007,CUST6168,2023-02-02,West,Furniture,Table,6,1688.85,0.23,7802.49,747.55,UPI,New,Online
+ORD0008,CUST3340,2024-04-14,East,Sports,Tennis Racket,4,1317.77,0.12,4638.55,1080.36,Debit Card,New,Retail
+ORD0009,CUST9085,2024-06-05,North,Sports,Gym Kit,10,810.81,0.07,7540.53,1881.42,Credit Card,New,Online
+ORD0010,CUST5119,2024-06-25,North,Clothing,Shoes,10,145.78,0.11,1297.44,323.35,Credit Card,Returning,Retail
+ORD0011,CUST9201,2023-09-27,South,Electronics,Headphones,7,333.15,0.0,2332.05,453.39,Net Banking,New,Retail
+ORD0012,CUST1009,2024-06-27,East,Sports,Cricket Bat,3,760.35,0.05,2167.0,521.6,Cash,New,Online
+ORD0013,CUST8962,2023-03-29,North,Furniture,Sofa,4,134.69,0.26,398.68,95.44,Net Banking,New,Online
+ORD0014,CUST4295,2024-07-06,East,Food,Beverages,5,1064.79,0.18,4365.64,1060.29,Cash,Returning,Retail
+ORD0015,CUST4770,2024-07-21,South,Sports,Gym Kit,2,510.85,0.02,1001.27,54.28,Credit Card,New,Online
+ORD0016,CUST8953,2024-11-16,South,Clothing,T-Shirt,1,1722.08,0.02,1687.64,164.72,Net Banking,New,Retail
+ORD0017,CUST7735,2024-03-09,West,Clothing,Shoes,7,397.01,0.03,2695.7,367.18,Credit Card,New,Online
+ORD0018,CUST4006,2024-03-08,East,Food,Groceries,2,512.34,0.06,963.2,134.58,Cash,New,Online
+ORD0019,CUST4872,2023-04-06,South,Food,Snacks,1,1311.25,0.16,1101.45,58.32,Cash,Returning,Retail
+ORD0020,CUST5673,2024-04-10,West,Clothing,Shoes,1,345.98,0.0,345.98,44.31,Net Banking,Returning,Online
+ORD0021,CUST1936,2023-11-18,North,Clothing,Jacket,4,1938.04,0.17,6434.29,1019.44,Net Banking,Returning,Online
+ORD0022,CUST2964,2024-02-18,South,Electronics,Laptop,3,155.67,0.02,457.67,101.77,Net Banking,New,Online
+ORD0023,CUST3144,2024-02-10,East,Food,Groceries,5,424.43,0.21,1676.5,163.86,Cash,Returning,Online
+ORD0024,CUST9288,2023-08-07,East,Electronics,Tablet,10,1996.94,0.3,13978.58,903.75,Debit Card,Returning,Online
+ORD0025,CUST9666,2024-09-18,North,Clothing,Jacket,5,332.34,0.25,1246.27,237.67,Net Banking,Returning,Online
+ORD0026,CUST4450,2023-10-16,East,Clothing,Jacket,2,1781.63,0.22,2779.34,225.38,Debit Card,Returning,Retail
+ORD0027,CUST3143,2023-12-08,East,Furniture,Chair,2,1275.88,0.25,1913.82,112.57,Debit Card,Returning,Retail
+ORD0028,CUST1590,2024-07-12,East,Sports,Football,2,168.98,0.26,250.09,57.72,Net Banking,New,Retail
+ORD0029,CUST6862,2023-02-10,South,Clothing,T-Shirt,5,742.01,0.28,2671.24,652.96,Debit Card,New,Retail
+ORD0030,CUST3900,2023-06-16,West,Sports,Gym Kit,10,1503.97,0.28,10828.58,1054.13,Credit Card,New,Retail
+ORD0031,CUST8711,2023-02-09,South,Food,Beverages,5,335.21,0.21,1324.08,167.51,Debit Card,Returning,Retail
+ORD0032,CUST5573,2023-03-13,East,Furniture,Table,4,66.86,0.06,251.39,29.07,Net Banking,Returning,Retail
+ORD0033,CUST8119,2023-04-22,East,Electronics,Laptop,5,373.56,0.29,1326.14,136.72,UPI,Returning,Online
+ORD0034,CUST4228,2024-07-05,East,Food,Beverages,5,107.89,0.13,469.32,72.27,Cash,New,Retail
+ORD0035,CUST6344,2024-02-23,West,Sports,Tennis Racket,2,1445.11,0.09,2630.1,294.19,UPI,New,Online
+ORD0036,CUST5978,2023-01-01,East,Food,Bakery,3,1238.72,0.09,3381.71,539.68,Debit Card,Returning,Retail
+ORD0037,CUST2389,2023-06-23,East,Food,Bakery,8,1357.74,0.15,9232.63,1927.28,Net Banking,Returning,Online
+ORD0038,CUST2193,2024-05-01,West,Clothing,Jacket,4,1616.99,0.04,6209.24,367.85,Cash,New,Retail
+ORD0039,CUST7965,2023-04-20,South,Food,Bakery,4,312.19,0.21,986.52,225.45,Debit Card,Returning,Online
+ORD0040,CUST6198,2024-07-26,West,Sports,Cricket Bat,2,923.79,0.24,1404.16,257.69,Net Banking,Returning,Retail
+ORD0041,CUST8939,2024-06-17,South,Clothing,Shoes,8,533.2,0.07,3967.01,704.27,UPI,Returning,Online
+ORD0042,CUST4788,2023-06-04,West,Furniture,Table,5,684.98,0.27,2500.18,165.3,Debit Card,New,Online
+ORD0043,CUST7381,2024-03-06,North,Food,Bakery,6,1094.37,0.12,5778.27,527.94,Net Banking,Returning,Retail
+ORD0044,CUST9818,2024-03-05,South,Electronics,Headphones,5,1511.88,0.26,5593.96,1346.39,Cash,New,Retail
+ORD0045,CUST8657,2023-06-19,South,Food,Bakery,1,789.94,0.2,631.95,132.47,Net Banking,New,Retail
+ORD0046,CUST5262,2023-02-21,West,Sports,Football,2,1292.64,0.04,2481.87,353.27,UPI,New,Retail
+ORD0047,CUST8705,2023-03-25,North,Furniture,Sofa,7,570.95,0.29,2837.62,381.13,Net Banking,New,Retail
+ORD0048,CUST3496,2023-01-21,South,Clothing,T-Shirt,1,1513.38,0.28,1089.63,97.93,Debit Card,Returning,Online
+ORD0049,CUST2876,2024-09-13,South,Sports,Cricket Bat,8,1404.94,0.23,8654.43,723.15,UPI,New,Online
+ORD0050,CUST4978,2024-10-04,North,Furniture,Bed,7,1884.11,0.06,12397.44,2087.97,UPI,New,Online
+ORD0051,CUST9031,2024-03-06,North,Furniture,Bed,6,156.53,0.19,760.74,39.96,Cash,Returning,Retail
+ORD0052,CUST8921,2024-07-05,West,Clothing,Shoes,3,1472.91,0.29,3137.3,326.33,Cash,Returning,Retail
+ORD0053,CUST7209,2024-09-16,East,Clothing,T-Shirt,5,1765.63,0.07,8210.18,1173.58,Credit Card,Returning,Retail
+ORD0054,CUST5526,2024-09-02,North,Clothing,Shoes,4,722.55,0.08,2658.98,281.67,Net Banking,New,Online
+ORD0055,CUST9041,2024-12-29,West,Clothing,Shoes,8,1119.25,0.07,8327.22,1209.27,Credit Card,New,Retail
+ORD0056,CUST6632,2024-06-27,West,Clothing,Shoes,4,626.29,0.17,2079.28,300.77,Net Banking,Returning,Retail
+ORD0057,CUST9779,2023-05-03,South,Food,Groceries,5,517.78,0.04,2485.34,219.99,Debit Card,New,Retail
+ORD0058,CUST1231,2023-11-06,South,Furniture,Sofa,2,1668.6,0.09,3036.85,371.03,UPI,New,Online
+ORD0059,CUST5658,2023-01-13,West,Sports,Tennis Racket,3,1282.98,0.23,2963.68,208.99,Cash,Returning,Retail
+ORD0060,CUST9056,2024-02-15,North,Clothing,T-Shirt,5,1883.31,0.14,8098.23,1736.45,Net Banking,New,Online
+ORD0061,CUST4697,2024-09-12,West,Clothing,Jacket,2,1987.96,0.04,3816.88,774.4,Cash,Returning,Retail
+ORD0062,CUST4404,2023-04-12,South,Sports,Gym Kit,5,1145.89,0.02,5614.86,1358.92,UPI,New,Online
+ORD0063,CUST8699,2024-08-31,East,Clothing,Jeans,9,168.63,0.0,1517.67,212.63,Credit Card,New,Retail
+ORD0064,CUST4241,2024-10-02,West,Furniture,Bed,2,1381.02,0.28,1988.67,412.78,Credit Card,New,Online
+ORD0065,CUST5728,2024-08-05,West,Furniture,Table,2,138.08,0.24,209.88,35.47,Credit Card,Returning,Retail
+ORD0066,CUST6280,2024-03-18,East,Food,Groceries,9,1089.16,0.13,8528.12,1446.43,Credit Card,New,Online
+ORD0067,CUST8245,2024-06-15,East,Sports,Football,5,1160.97,0.23,4469.73,380.1,Debit Card,Returning,Retail
+ORD0068,CUST6403,2023-06-14,West,Electronics,Tablet,6,828.53,0.1,4474.06,317.3,Cash,Returning,Retail
+ORD0069,CUST9431,2024-02-18,North,Sports,Football,8,194.36,0.08,1430.49,104.69,Net Banking,Returning,Retail
+ORD0070,CUST4335,2023-02-22,East,Electronics,Smartphone,9,736.32,0.23,5102.7,893.39,Net Banking,New,Retail
+ORD0071,CUST3594,2024-12-27,East,Food,Bakery,2,77.16,0.19,125.0,26.23,Net Banking,New,Retail
+ORD0072,CUST5781,2024-05-25,East,Electronics,Smartphone,2,933.67,0.04,1792.65,387.98,Cash,Returning,Retail
+ORD0073,CUST2143,2023-05-20,East,Clothing,Shoes,9,306.39,0.06,2592.06,440.33,Cash,Returning,Retail
+ORD0074,CUST8316,2023-06-02,West,Electronics,Headphones,5,1678.2,0.17,6964.53,1267.46,UPI,Returning,Retail
+ORD0075,CUST1715,2024-02-25,East,Food,Groceries,4,1961.93,0.07,7298.38,923.93,Cash,Returning,Retail
+ORD0076,CUST8213,2023-04-13,North,Clothing,Shoes,1,269.97,0.29,191.68,22.31,Net Banking,Returning,Online
+ORD0077,CUST7512,2024-09-30,North,Clothing,Shoes,3,168.16,0.23,388.45,40.01,UPI,Returning,Retail
+ORD0078,CUST2480,2023-08-21,West,Food,Snacks,10,155.47,0.19,1259.31,294.91,Credit Card,New,Retail
+ORD0079,CUST8056,2024-01-19,South,Clothing,Jacket,1,111.06,0.24,84.41,9.17,Debit Card,Returning,Online
+ORD0080,CUST3344,2024-05-24,South,Clothing,Jeans,2,1226.79,0.11,2183.69,407.54,Cash,Returning,Retail
+ORD0081,CUST6661,2024-03-28,East,Furniture,Chair,8,1804.39,0.2,11548.1,942.27,Cash,Returning,Retail
+ORD0082,CUST5847,2024-01-03,East,Furniture,Table,7,1709.6,0.03,11608.18,1465.8,Credit Card,Returning,Retail
+ORD0083,CUST6772,2023-08-24,South,Electronics,Laptop,10,1495.44,0.25,11215.8,2586.22,Debit Card,Returning,Online
+ORD0084,CUST2476,2023-05-15,East,Electronics,Laptop,5,1581.45,0.01,7828.18,962.65,UPI,Returning,Online
+ORD0085,CUST3695,2023-10-07,East,Clothing,Jeans,9,1755.39,0.11,14060.67,2114.15,Cash,Returning,Retail
+ORD0086,CUST7511,2024-11-21,East,Electronics,Tablet,2,298.7,0.29,424.15,94.17,Credit Card,Returning,Online
+ORD0087,CUST7086,2024-01-26,North,Furniture,Chair,8,749.8,0.22,4678.75,479.26,Debit Card,Returning,Online
+ORD0088,CUST5951,2024-12-18,West,Sports,Tennis Racket,10,458.31,0.02,4491.44,964.63,Credit Card,New,Online
+ORD0089,CUST8432,2024-02-02,East,Electronics,Headphones,8,249.92,0.07,1859.4,292.87,Net Banking,Returning,Online
+ORD0090,CUST7070,2024-12-07,South,Food,Snacks,8,1238.99,0.28,7136.58,756.11,Cash,Returning,Online
+ORD0091,CUST5520,2024-02-12,South,Furniture,Chair,6,1098.04,0.29,4677.65,569.43,Credit Card,Returning,Online
+ORD0092,CUST4362,2024-08-01,North,Clothing,T-Shirt,1,1577.85,0.07,1467.4,110.33,Net Banking,New,Online
+ORD0093,CUST3129,2023-05-29,East,Clothing,Jacket,3,1581.51,0.18,3890.51,410.27,Debit Card,New,Online
+ORD0094,CUST5347,2023-06-28,North,Clothing,T-Shirt,6,1584.17,0.07,8839.67,1014.39,Debit Card,Returning,Online
+ORD0095,CUST4629,2024-05-30,North,Electronics,Tablet,8,1560.47,0.15,10611.2,762.0,Net Banking,Returning,Retail
+ORD0096,CUST8267,2024-12-30,North,Electronics,Laptop,8,1697.65,0.13,11815.64,845.91,Credit Card,Returning,Online
+ORD0097,CUST9692,2024-01-26,East,Electronics,Smartphone,5,1256.15,0.18,5150.22,991.06,Cash,Returning,Online
+ORD0098,CUST7532,2024-04-09,West,Electronics,Smartphone,7,914.08,0.07,5950.66,700.91,Credit Card,Returning,Retail
+ORD0099,CUST2398,2023-04-04,North,Furniture,Sofa,6,1908.11,0.21,9044.44,1310.12,Cash,New,Retail
+ORD0100,CUST6793,2024-02-25,West,Clothing,T-Shirt,10,1914.12,0.17,15887.2,2923.29,Credit Card,Returning,Retail
+ORD0101,CUST6736,2023-04-21,East,Furniture,Chair,10,1024.68,0.05,9734.46,1425.49,Credit Card,Returning,Online
+ORD0102,CUST5477,2023-07-04,East,Food,Snacks,10,1859.59,0.25,13946.92,1443.36,UPI,Returning,Online
+ORD0103,CUST2503,2023-02-01,South,Clothing,Jeans,10,1321.54,0.02,12951.09,2566.83,Cash,Returning,Retail
+ORD0104,CUST2391,2024-09-02,North,Furniture,Table,6,637.04,0.1,3440.02,819.69,Debit Card,New,Online
+ORD0105,CUST4531,2023-10-07,North,Electronics,Headphones,8,1330.64,0.15,9048.35,1252.37,UPI,Returning,Online
+ORD0106,CUST1897,2024-09-05,North,Furniture,Bed,9,1340.92,0.01,11947.6,1541.87,Debit Card,Returning,Online
+ORD0107,CUST3116,2023-06-29,West,Clothing,Jacket,5,669.68,0.0,3348.4,667.68,Net Banking,New,Retail
+ORD0108,CUST8033,2023-11-17,West,Electronics,Tablet,1,883.71,0.14,759.99,49.83,Cash,Returning,Online
+ORD0109,CUST6928,2024-12-07,North,Food,Snacks,6,360.31,0.28,1556.54,221.06,Cash,New,Online
+ORD0110,CUST6456,2023-08-15,South,Food,Bakery,9,175.72,0.26,1170.3,233.08,Credit Card,New,Online
+ORD0111,CUST3504,2024-09-08,North,Furniture,Sofa,3,487.81,0.04,1404.89,125.67,Debit Card,Returning,Retail
+ORD0112,CUST6179,2024-10-04,South,Sports,Gym Kit,10,1293.12,0.3,9051.84,1037.72,Cash,New,Retail
+ORD0113,CUST8404,2024-04-17,North,Food,Groceries,5,1191.01,0.11,5299.99,343.64,Credit Card,Returning,Retail
+ORD0114,CUST8368,2023-02-12,South,Electronics,Laptop,10,1196.28,0.12,10527.26,1748.22,UPI,Returning,Online
+ORD0115,CUST9266,2023-03-28,South,Electronics,Tablet,2,1625.71,0.25,2438.57,601.05,Credit Card,New,Retail
+ORD0116,CUST1857,2023-12-13,East,Food,Beverages,6,758.25,0.08,4185.54,551.46,Credit Card,Returning,Online
+ORD0117,CUST3463,2024-09-09,East,Sports,Gym Kit,5,518.95,0.26,1920.12,466.36,Credit Card,New,Retail
+ORD0118,CUST6381,2024-01-21,South,Furniture,Bed,3,1198.18,0.28,2588.07,289.65,Net Banking,New,Retail
+ORD0119,CUST4145,2024-05-12,South,Sports,Tennis Racket,1,737.94,0.05,701.04,65.08,Debit Card,New,Online
+ORD0120,CUST6517,2023-02-08,South,Furniture,Chair,9,1546.33,0.25,10437.73,2366.61,Net Banking,Returning,Online
+ORD0121,CUST6968,2024-02-25,South,Clothing,Jeans,10,1621.91,0.05,15408.15,2119.15,Cash,Returning,Retail
+ORD0122,CUST7026,2023-07-18,West,Clothing,Jeans,5,1931.88,0.24,7341.14,1694.3,Cash,Returning,Retail
+ORD0123,CUST1854,2023-09-14,West,Sports,Gym Kit,3,1637.44,0.24,3733.36,290.01,UPI,New,Online
+ORD0124,CUST2502,2024-03-23,South,Furniture,Chair,3,560.13,0.27,1226.68,97.48,Cash,Returning,Online
+ORD0125,CUST4678,2024-01-19,North,Food,Snacks,7,1013.97,0.07,6600.94,1643.01,UPI,New,Retail
+ORD0126,CUST8685,2023-05-23,West,Clothing,Jeans,1,588.02,0.25,441.01,83.45,Net Banking,New,Online
+ORD0127,CUST7934,2024-06-24,North,Electronics,Headphones,4,1673.23,0.16,5622.05,1098.81,UPI,New,Retail
+ORD0128,CUST9189,2023-04-24,North,Electronics,Laptop,4,851.25,0.24,2587.8,365.97,Net Banking,New,Online
+ORD0129,CUST2402,2024-11-11,East,Furniture,Bed,1,1237.32,0.07,1150.71,153.41,Credit Card,New,Retail
+ORD0130,CUST6649,2023-03-11,South,Food,Snacks,7,1962.46,0.08,12638.24,672.97,Credit Card,Returning,Online
+ORD0131,CUST8612,2024-12-02,West,Electronics,Headphones,9,690.32,0.19,5032.43,1087.39,Debit Card,New,Online
+ORD0132,CUST6080,2023-11-20,West,Food,Snacks,5,419.15,0.24,1592.77,361.81,Net Banking,Returning,Retail
+ORD0133,CUST5476,2023-12-06,North,Electronics,Smartphone,5,726.81,0.23,2798.22,624.45,UPI,Returning,Retail
+ORD0134,CUST5369,2024-06-15,North,Food,Bakery,6,1947.97,0.15,9934.65,1485.28,Cash,New,Retail
+ORD0135,CUST6021,2023-10-30,West,Sports,Cricket Bat,9,601.66,0.03,5252.49,607.1,Net Banking,Returning,Online
+ORD0136,CUST5498,2024-03-21,North,Food,Groceries,8,103.86,0.26,614.85,74.1,Credit Card,Returning,Retail
+ORD0137,CUST3068,2023-02-05,North,Sports,Cricket Bat,1,302.7,0.18,248.21,51.2,Debit Card,Returning,Retail
+ORD0138,CUST2259,2024-03-30,South,Food,Snacks,10,323.81,0.13,2817.15,349.87,Net Banking,Returning,Retail
+ORD0139,CUST7340,2024-06-14,North,Furniture,Sofa,4,1921.83,0.01,7610.45,663.7,UPI,Returning,Retail
+ORD0140,CUST8292,2023-06-26,North,Clothing,Jacket,8,416.35,0.04,3197.57,207.24,UPI,Returning,Online
+ORD0141,CUST3852,2024-10-15,East,Sports,Tennis Racket,5,1705.7,0.21,6737.52,1586.45,Net Banking,New,Online
+ORD0142,CUST8657,2024-01-13,South,Clothing,Jeans,4,1584.94,0.01,6276.36,1009.27,Net Banking,New,Online
+ORD0143,CUST3053,2023-03-17,East,Furniture,Bed,8,1060.88,0.23,6535.02,1402.86,Credit Card,Returning,Retail
+ORD0144,CUST3114,2023-07-06,West,Sports,Tennis Racket,3,1758.36,0.23,4061.81,722.83,Net Banking,New,Online
+ORD0145,CUST9501,2023-12-21,East,Sports,Cricket Bat,5,346.02,0.1,1557.09,298.75,Credit Card,Returning,Online
+ORD0146,CUST3762,2024-10-18,South,Sports,Tennis Racket,3,1257.54,0.18,3093.55,212.48,Debit Card,Returning,Online
+ORD0147,CUST7825,2023-08-04,North,Electronics,Laptop,1,1898.12,0.23,1461.55,150.44,Cash,Returning,Retail
+ORD0148,CUST7809,2024-03-26,West,Food,Beverages,7,608.92,0.02,4177.19,258.91,Cash,New,Retail
+ORD0149,CUST7532,2023-12-20,South,Sports,Cricket Bat,6,1725.74,0.1,9319.0,2307.43,UPI,New,Retail
+ORD0150,CUST7293,2023-10-25,West,Clothing,Shoes,2,549.59,0.07,1022.24,70.9,Debit Card,New,Retail
+ORD0151,CUST6055,2024-05-25,West,Sports,Tennis Racket,4,1530.98,0.15,5205.33,796.13,Credit Card,New,Retail
+ORD0152,CUST8710,2024-05-21,East,Sports,Gym Kit,4,445.99,0.11,1587.72,95.43,Net Banking,New,Online
+ORD0153,CUST1838,2024-02-15,South,Food,Beverages,5,1460.47,0.23,5622.81,692.66,UPI,Returning,Online
+ORD0154,CUST3108,2023-05-02,North,Food,Bakery,9,573.85,0.3,3615.26,672.73,Cash,Returning,Retail
+ORD0155,CUST1637,2023-02-16,South,Sports,Tennis Racket,3,414.13,0.15,1056.03,158.42,UPI,Returning,Retail
+ORD0156,CUST5902,2024-09-23,East,Clothing,Jeans,6,1864.11,0.1,10066.19,1294.42,Net Banking,Returning,Retail
+ORD0157,CUST1436,2023-11-12,West,Food,Snacks,6,675.85,0.03,3933.45,524.36,UPI,New,Online
+ORD0158,CUST3421,2024-01-25,South,Sports,Gym Kit,3,1057.98,0.22,2475.67,507.32,Credit Card,New,Online
+ORD0159,CUST8726,2024-05-28,North,Electronics,Tablet,6,849.18,0.12,4483.67,407.02,Debit Card,New,Retail
+ORD0160,CUST6804,2024-07-13,East,Food,Bakery,6,1914.24,0.14,9877.48,1547.06,Net Banking,Returning,Online
+ORD0161,CUST4396,2023-10-23,West,Clothing,Jacket,9,611.03,0.28,3959.47,975.82,UPI,Returning,Retail
+ORD0162,CUST6654,2024-02-09,South,Sports,Tennis Racket,5,261.31,0.2,1045.24,131.64,UPI,New,Retail
+ORD0163,CUST5442,2024-07-05,East,Electronics,Headphones,8,1318.82,0.22,8229.44,763.67,Debit Card,New,Online
+ORD0164,CUST8739,2023-12-05,North,Clothing,T-Shirt,9,466.83,0.07,3907.37,273.67,Debit Card,New,Online
+ORD0165,CUST1969,2023-10-20,North,Food,Bakery,8,1308.07,0.23,8057.71,865.79,Net Banking,New,Online
+ORD0166,CUST4052,2024-05-22,East,Clothing,Shoes,3,1869.17,0.01,5551.43,1206.0,Credit Card,New,Retail
+ORD0167,CUST3198,2024-05-20,West,Sports,Football,6,583.43,0.3,2450.41,388.78,UPI,New,Online
+ORD0168,CUST5833,2023-12-12,South,Furniture,Table,8,1303.6,0.22,8134.46,429.64,Debit Card,Returning,Retail
+ORD0169,CUST6301,2024-05-03,South,Sports,Tennis Racket,2,813.65,0.03,1578.48,388.84,Credit Card,Returning,Retail
+ORD0170,CUST5285,2023-01-12,East,Clothing,Shoes,5,1908.99,0.09,8685.9,1690.07,Debit Card,New,Online
+ORD0171,CUST6095,2024-12-21,North,Food,Groceries,3,822.72,0.15,2097.94,480.48,UPI,Returning,Online
+ORD0172,CUST9998,2024-03-01,West,Clothing,Jeans,8,323.31,0.22,2017.45,345.28,Net Banking,New,Online
+ORD0173,CUST2838,2024-07-31,North,Sports,Football,9,904.56,0.21,6431.42,422.03,Net Banking,New,Online
+ORD0174,CUST2489,2024-05-15,West,Clothing,Jacket,9,894.84,0.2,6442.85,1245.94,Credit Card,Returning,Online
+ORD0175,CUST1356,2023-11-12,West,Sports,Gym Kit,8,1136.54,0.17,7546.63,1392.76,UPI,New,Online
+ORD0176,CUST2130,2023-03-03,West,Sports,Football,1,858.92,0.21,678.55,107.37,Credit Card,Returning,Retail
+ORD0177,CUST7154,2024-01-22,North,Clothing,Jeans,7,761.43,0.27,3890.91,543.59,Net Banking,New,Retail
+ORD0178,CUST1372,2023-01-04,East,Electronics,Smartphone,9,798.26,0.04,6896.97,1694.9,Cash,Returning,Retail
+ORD0179,CUST1527,2023-04-26,West,Clothing,Jeans,8,705.4,0.08,5191.74,1232.95,Net Banking,New,Online
+ORD0180,CUST5009,2023-02-19,North,Clothing,T-Shirt,2,1196.01,0.13,2081.06,383.76,Cash,Returning,Online
+ORD0181,CUST6224,2024-08-12,East,Sports,Cricket Bat,1,297.47,0.3,208.23,20.16,Debit Card,Returning,Online
+ORD0182,CUST7999,2023-06-29,West,Sports,Cricket Bat,7,614.99,0.02,4218.83,1011.27,Credit Card,Returning,Retail
+ORD0183,CUST8758,2024-07-04,South,Sports,Tennis Racket,7,828.35,0.09,5276.59,457.88,Debit Card,Returning,Online
+ORD0184,CUST4978,2024-02-02,East,Food,Snacks,9,837.1,0.12,6629.83,1034.24,Debit Card,Returning,Online
+ORD0185,CUST1647,2024-01-22,North,Food,Groceries,2,1080.56,0.25,1620.84,97.75,Debit Card,New,Retail
+ORD0186,CUST8846,2023-05-01,South,Clothing,Jacket,5,1914.9,0.0,9574.5,2273.29,Net Banking,New,Retail
+ORD0187,CUST6892,2023-09-25,West,Clothing,Jacket,5,773.71,0.16,3249.58,395.97,Cash,New,Retail
+ORD0188,CUST1265,2023-05-30,East,Furniture,Table,6,639.59,0.01,3799.16,846.52,Net Banking,Returning,Retail
+ORD0189,CUST6530,2024-07-17,East,Clothing,Jeans,6,475.44,0.17,2367.69,234.75,Cash,Returning,Retail
+ORD0190,CUST1962,2024-07-09,North,Clothing,Jacket,3,297.12,0.16,748.74,65.0,Credit Card,New,Online
+ORD0191,CUST7114,2024-04-11,North,Food,Beverages,4,154.58,0.05,587.4,55.07,Net Banking,Returning,Retail
+ORD0192,CUST9777,2023-10-09,East,Electronics,Laptop,9,1112.25,0.0,10010.25,1560.43,Credit Card,Returning,Online
+ORD0193,CUST5379,2023-12-29,West,Electronics,Laptop,9,314.82,0.06,2663.38,413.6,Credit Card,Returning,Retail
+ORD0194,CUST1519,2024-10-27,North,Food,Beverages,4,613.95,0.25,1841.85,121.79,Cash,Returning,Retail
+ORD0195,CUST6427,2024-03-20,North,Sports,Gym Kit,1,1280.76,0.21,1011.8,67.32,Net Banking,New,Online
+ORD0196,CUST1539,2024-07-10,South,Clothing,Shoes,5,112.19,0.02,549.73,129.25,UPI,New,Online
+ORD0197,CUST7375,2024-08-03,East,Sports,Cricket Bat,7,1859.17,0.09,11842.91,1927.93,Cash,New,Online
+ORD0198,CUST7499,2024-09-11,East,Sports,Tennis Racket,1,213.42,0.07,198.48,12.94,Credit Card,Returning,Retail
+ORD0199,CUST7227,2024-08-22,North,Food,Beverages,6,1115.01,0.11,5954.15,518.89,Net Banking,Returning,Online
+ORD0200,CUST6188,2024-02-03,East,Electronics,Laptop,5,325.36,0.21,1285.17,227.19,Credit Card,New,Online
+ORD0201,CUST8353,2024-03-17,West,Furniture,Bed,6,1527.47,0.03,8889.88,599.71,Credit Card,New,Online
+ORD0202,CUST7779,2023-10-26,West,Furniture,Chair,10,1204.13,0.1,10837.17,1376.84,Credit Card,New,Online
+ORD0203,CUST8121,2023-06-21,East,Food,Beverages,3,552.46,0.08,1524.79,120.74,Cash,Returning,Retail
+ORD0204,CUST4203,2024-09-23,West,Electronics,Headphones,5,1889.56,0.22,7369.28,1099.21,Credit Card,New,Retail
+ORD0205,CUST6484,2024-03-26,West,Electronics,Tablet,6,1686.39,0.11,9005.32,2003.14,Net Banking,New,Retail
+ORD0206,CUST9044,2023-10-26,South,Furniture,Table,8,642.08,0.29,3647.01,888.94,UPI,Returning,Retail
+ORD0207,CUST1440,2023-07-04,West,Food,Groceries,2,1865.49,0.06,3507.12,874.86,Debit Card,Returning,Retail
+ORD0208,CUST7932,2023-06-07,West,Electronics,Tablet,8,295.57,0.09,2151.75,216.33,Credit Card,Returning,Retail
+ORD0209,CUST1602,2024-07-10,East,Sports,Gym Kit,9,1023.09,0.28,6629.62,1248.63,Net Banking,New,Online
+ORD0210,CUST7547,2024-11-24,East,Clothing,Jacket,3,1301.06,0.01,3864.15,953.37,Cash,New,Online
+ORD0211,CUST4621,2024-08-12,West,Electronics,Headphones,4,1031.14,0.16,3464.63,575.49,UPI,Returning,Retail
+ORD0212,CUST2901,2023-03-29,South,Sports,Cricket Bat,6,1995.45,0.14,10296.52,1123.21,UPI,Returning,Retail
+ORD0213,CUST8412,2024-12-14,East,Food,Beverages,9,976.19,0.14,7555.71,1039.92,Credit Card,Returning,Online
+ORD0214,CUST9454,2023-09-07,South,Electronics,Laptop,6,1302.98,0.2,6254.3,518.3,Net Banking,New,Retail
+ORD0215,CUST8080,2024-10-17,West,Sports,Gym Kit,8,479.07,0.12,3372.65,293.05,Credit Card,New,Retail
+ORD0216,CUST2025,2024-12-21,North,Sports,Gym Kit,7,28.81,0.06,189.57,20.03,Net Banking,New,Retail
+ORD0217,CUST6134,2024-10-16,West,Furniture,Table,8,245.63,0.2,1572.03,232.5,Net Banking,Returning,Online
+ORD0218,CUST2388,2023-11-01,South,Furniture,Sofa,8,1242.38,0.24,7553.67,1444.24,UPI,New,Online
+ORD0219,CUST3258,2024-09-02,West,Furniture,Chair,3,759.15,0.04,2186.35,279.18,Cash,New,Retail
+ORD0220,CUST1878,2024-04-06,East,Sports,Cricket Bat,9,350.39,0.09,2869.69,250.87,Credit Card,Returning,Online
+ORD0221,CUST8272,2024-03-01,West,Clothing,Shoes,9,1020.77,0.15,7808.89,1459.79,Debit Card,New,Online
+ORD0222,CUST9115,2024-04-13,North,Clothing,Jacket,1,564.21,0.16,473.94,39.64,Net Banking,New,Retail
+ORD0223,CUST4580,2024-07-13,West,Sports,Tennis Racket,9,1648.77,0.01,14690.54,2846.97,Credit Card,New,Retail
+ORD0224,CUST4882,2023-05-01,South,Electronics,Tablet,5,710.18,0.25,2663.17,367.02,Net Banking,Returning,Retail
+ORD0225,CUST5605,2024-06-29,South,Clothing,Jeans,4,1630.79,0.24,4957.6,813.12,UPI,Returning,Retail
+ORD0226,CUST1971,2024-02-26,East,Sports,Tennis Racket,9,1971.27,0.2,14193.14,979.97,Debit Card,New,Online
+ORD0227,CUST5402,2024-08-14,West,Clothing,Jacket,4,1527.72,0.2,4888.7,723.0,Cash,Returning,Online
+ORD0228,CUST8996,2024-04-10,East,Electronics,Tablet,9,1504.61,0.21,10697.78,2411.96,Net Banking,New,Online
+ORD0229,CUST9105,2023-08-05,East,Food,Groceries,2,1595.44,0.12,2807.97,684.09,UPI,Returning,Retail
+ORD0230,CUST1752,2023-02-19,North,Sports,Cricket Bat,10,1707.8,0.24,12979.28,2970.06,Cash,New,Online
+ORD0231,CUST3161,2024-12-06,East,Clothing,Shoes,8,21.34,0.29,121.21,10.97,Debit Card,Returning,Online
+ORD0232,CUST6005,2024-02-10,South,Furniture,Sofa,2,756.25,0.27,1104.12,91.76,Cash,New,Online
+ORD0233,CUST1152,2024-03-31,North,Electronics,Smartphone,8,174.32,0.18,1143.54,175.98,UPI,New,Retail
+ORD0234,CUST6133,2023-04-16,East,Clothing,Shoes,2,473.31,0.03,918.22,193.92,UPI,New,Retail
+ORD0235,CUST6753,2024-03-26,South,Clothing,Jeans,2,1070.41,0.0,2140.82,385.36,Debit Card,Returning,Retail
+ORD0236,CUST8035,2023-12-26,East,Clothing,T-Shirt,2,297.23,0.04,570.68,111.85,Debit Card,New,Retail
+ORD0237,CUST1439,2024-12-08,East,Electronics,Smartphone,9,1209.98,0.22,8494.06,908.73,Debit Card,New,Retail
+ORD0238,CUST2163,2024-08-31,North,Furniture,Chair,4,999.88,0.03,3879.53,581.61,UPI,Returning,Online
+ORD0239,CUST1273,2023-03-16,North,Food,Bakery,6,1101.79,0.05,6280.2,905.62,Credit Card,Returning,Online
+ORD0240,CUST7939,2024-03-01,West,Electronics,Laptop,7,1023.09,0.19,5800.92,871.35,Credit Card,New,Retail
+ORD0241,CUST6353,2024-07-03,West,Electronics,Headphones,2,1032.38,0.06,1940.87,410.71,Net Banking,New,Retail
+ORD0242,CUST1901,2024-09-18,East,Food,Beverages,1,504.07,0.28,362.93,26.57,Debit Card,New,Online
+ORD0243,CUST3735,2023-09-23,East,Clothing,T-Shirt,3,1002.9,0.1,2707.83,415.5,Debit Card,Returning,Online
+ORD0244,CUST2262,2024-08-13,West,Electronics,Headphones,7,558.52,0.02,3831.45,737.42,Cash,Returning,Online
+ORD0245,CUST2889,2024-11-21,South,Food,Beverages,6,331.47,0.23,1531.39,350.46,Net Banking,New,Online
+ORD0246,CUST7870,2023-02-06,South,Electronics,Smartphone,1,954.09,0.11,849.14,67.95,UPI,New,Retail
+ORD0247,CUST3938,2023-02-23,South,Furniture,Sofa,2,1151.64,0.04,2211.15,408.32,Net Banking,New,Retail
+ORD0248,CUST1130,2024-04-12,East,Electronics,Tablet,5,1551.58,0.09,7059.69,474.96,Debit Card,Returning,Retail
+ORD0249,CUST9954,2023-07-20,South,Sports,Cricket Bat,8,749.18,0.29,4255.34,1061.95,Debit Card,New,Retail
+ORD0250,CUST1023,2023-12-10,West,Electronics,Smartphone,9,705.92,0.25,4764.96,1074.21,UPI,New,Online
+ORD0251,CUST5584,2024-12-29,North,Sports,Cricket Bat,7,994.22,0.02,6820.35,1700.94,Credit Card,New,Retail
+ORD0252,CUST2226,2024-02-08,North,Furniture,Bed,2,1169.93,0.15,1988.88,352.91,Cash,New,Online
+ORD0253,CUST6211,2023-12-01,West,Furniture,Sofa,6,1853.56,0.12,9786.8,2117.67,UPI,New,Online
+ORD0254,CUST7660,2023-11-18,North,Clothing,Jeans,10,235.77,0.03,2286.97,319.98,Net Banking,Returning,Online
+ORD0255,CUST5984,2024-12-03,North,Food,Groceries,8,544.72,0.04,4183.45,341.05,Debit Card,Returning,Online
+ORD0256,CUST1509,2023-06-28,West,Electronics,Smartphone,6,804.56,0.01,4779.09,524.59,Cash,New,Online
+ORD0257,CUST3141,2023-08-16,South,Food,Snacks,3,260.48,0.02,765.81,157.9,Cash,Returning,Online
+ORD0258,CUST3110,2024-03-30,North,Sports,Tennis Racket,2,63.16,0.02,123.79,28.53,UPI,New,Online
+ORD0259,CUST1483,2024-05-23,West,Food,Snacks,3,1849.78,0.13,4827.93,940.9,Cash,New,Retail
+ORD0260,CUST5026,2024-09-26,East,Clothing,Jeans,5,574.11,0.27,2095.5,119.3,Cash,Returning,Retail
+ORD0261,CUST5082,2024-06-22,North,Electronics,Laptop,5,778.37,0.13,3385.91,604.49,Cash,Returning,Retail
+ORD0262,CUST1427,2023-07-04,East,Sports,Gym Kit,6,1827.1,0.15,9318.21,1189.71,Net Banking,New,Online
+ORD0263,CUST2640,2023-06-13,South,Furniture,Chair,8,1068.28,0.23,6580.6,1644.63,Debit Card,Returning,Online
+ORD0264,CUST6210,2023-08-31,East,Clothing,Shoes,6,1871.71,0.3,7861.18,666.18,Net Banking,New,Retail
+ORD0265,CUST9882,2024-05-19,East,Sports,Cricket Bat,10,1897.77,0.25,14233.28,3018.6,Debit Card,Returning,Online
+ORD0266,CUST4300,2023-12-06,South,Electronics,Laptop,4,1211.29,0.01,4796.71,698.39,UPI,New,Retail
+ORD0267,CUST6978,2024-06-22,North,Electronics,Laptop,3,1181.49,0.28,2552.02,522.84,UPI,Returning,Online
+ORD0268,CUST8982,2024-10-16,East,Furniture,Sofa,6,290.17,0.05,1653.97,396.52,Debit Card,Returning,Online
+ORD0269,CUST7415,2023-01-02,North,Sports,Cricket Bat,7,627.51,0.21,3470.13,261.89,Debit Card,Returning,Online
+ORD0270,CUST3750,2023-11-24,North,Sports,Football,8,298.47,0.22,1862.45,181.77,UPI,Returning,Online
+ORD0271,CUST1788,2023-01-02,West,Furniture,Table,4,1392.49,0.11,4957.26,1028.16,Cash,Returning,Online
+ORD0272,CUST4695,2024-08-14,South,Food,Bakery,7,715.44,0.11,4457.19,961.69,Cash,New,Online
+ORD0273,CUST3636,2024-01-20,North,Furniture,Chair,6,537.03,0.03,3125.51,369.94,Net Banking,New,Retail
+ORD0274,CUST3573,2024-03-20,North,Sports,Gym Kit,1,874.02,0.2,699.22,119.89,Credit Card,Returning,Online
+ORD0275,CUST5872,2023-10-16,South,Clothing,Shoes,9,1449.64,0.22,10176.47,1048.72,Credit Card,New,Retail
+ORD0276,CUST8869,2024-11-08,South,Sports,Gym Kit,3,127.92,0.0,383.76,25.91,Credit Card,New,Online
+ORD0277,CUST9013,2024-04-27,East,Clothing,Jacket,2,957.67,0.03,1857.88,384.54,Credit Card,Returning,Online
+ORD0278,CUST4706,2023-09-27,East,Furniture,Bed,6,389.43,0.01,2313.21,319.1,Net Banking,New,Online
+ORD0279,CUST1999,2023-08-21,West,Electronics,Laptop,6,1620.2,0.12,8554.66,1721.98,Net Banking,Returning,Retail
+ORD0280,CUST9226,2023-02-05,South,Sports,Cricket Bat,8,611.73,0.12,4306.58,950.84,Credit Card,Returning,Online
+ORD0281,CUST4308,2024-03-21,South,Clothing,Jeans,4,269.85,0.13,939.08,232.57,Net Banking,Returning,Retail
+ORD0282,CUST8506,2024-06-16,North,Electronics,Laptop,7,1121.6,0.17,6516.5,1442.26,Net Banking,Returning,Online
+ORD0283,CUST2730,2023-04-13,North,Food,Beverages,3,1141.86,0.17,2843.23,690.81,UPI,Returning,Retail
+ORD0284,CUST3356,2024-02-17,West,Furniture,Bed,8,1152.61,0.14,7929.96,669.61,Credit Card,Returning,Retail
+ORD0285,CUST6094,2023-11-07,East,Clothing,T-Shirt,8,1843.25,0.27,10764.58,581.79,Cash,New,Online
+ORD0286,CUST2462,2024-09-11,South,Clothing,Jacket,8,1552.58,0.1,11178.58,2188.32,Cash,New,Retail
+ORD0287,CUST7609,2024-06-02,South,Food,Groceries,1,1040.23,0.05,988.22,110.9,Net Banking,New,Online
+ORD0288,CUST4262,2024-12-22,East,Clothing,Jeans,1,513.99,0.14,442.03,103.26,UPI,Returning,Retail
+ORD0289,CUST6730,2024-04-30,East,Electronics,Laptop,4,757.48,0.18,2484.53,212.47,Debit Card,Returning,Online
+ORD0290,CUST4626,2023-08-08,South,Furniture,Chair,7,118.31,0.26,612.85,126.23,Debit Card,Returning,Retail
+ORD0291,CUST4666,2023-01-09,East,Sports,Football,1,958.71,0.04,920.36,77.9,Net Banking,Returning,Retail
+ORD0292,CUST7506,2024-06-17,North,Food,Bakery,6,928.82,0.07,5182.82,572.33,Credit Card,Returning,Retail
+ORD0293,CUST5278,2023-10-11,East,Furniture,Chair,8,146.4,0.3,819.84,146.03,Debit Card,New,Online
+ORD0294,CUST5250,2023-10-30,West,Electronics,Tablet,6,1367.9,0.22,6401.77,1159.23,Cash,Returning,Online
+ORD0295,CUST6873,2024-05-02,East,Sports,Cricket Bat,6,1458.57,0.07,8138.82,1277.2,Debit Card,New,Retail
+ORD0296,CUST6499,2023-07-07,North,Electronics,Tablet,3,1487.02,0.22,3479.63,563.03,Debit Card,Returning,Online
+ORD0297,CUST8709,2023-05-01,North,Furniture,Bed,6,755.93,0.18,3719.18,530.92,Net Banking,New,Retail
+ORD0298,CUST3250,2023-06-04,South,Clothing,T-Shirt,7,1069.08,0.12,6585.53,1476.28,UPI,Returning,Retail
+ORD0299,CUST6134,2023-07-01,North,Clothing,Jacket,3,1562.3,0.15,3983.86,701.98,Credit Card,Returning,Retail
+ORD0300,CUST3120,2023-04-01,West,Clothing,Jeans,10,1533.68,0.15,13036.28,2642.63,Cash,Returning,Retail
+ORD0301,CUST6279,2023-01-15,South,Food,Bakery,1,94.7,0.06,89.02,11.09,Credit Card,New,Online
+ORD0302,CUST2069,2023-06-21,North,Clothing,Jacket,5,275.28,0.12,1211.23,203.16,UPI,Returning,Retail
+ORD0303,CUST6885,2024-05-16,South,Sports,Tennis Racket,7,1778.19,0.3,8713.13,1032.91,Debit Card,Returning,Online
+ORD0304,CUST7006,2023-05-07,North,Clothing,Jeans,3,438.16,0.01,1301.34,196.41,Cash,Returning,Online
+ORD0305,CUST8279,2024-03-02,West,Sports,Football,2,1314.06,0.01,2601.84,489.02,Credit Card,Returning,Retail
+ORD0306,CUST3247,2023-10-04,West,Clothing,Jeans,1,616.21,0.2,492.97,89.97,Credit Card,New,Retail
+ORD0307,CUST4304,2024-06-19,East,Electronics,Laptop,8,413.32,0.06,3108.17,318.89,Cash,Returning,Online
+ORD0308,CUST2458,2023-01-14,North,Electronics,Tablet,4,1382.64,0.14,4756.28,460.89,Net Banking,Returning,Online
+ORD0309,CUST5327,2023-10-31,West,Electronics,Laptop,2,1811.46,0.19,2934.57,414.8,Credit Card,New,Online
+ORD0310,CUST1751,2023-04-08,North,Electronics,Headphones,6,1607.16,0.09,8775.09,1734.91,Debit Card,New,Retail
+ORD0311,CUST3996,2023-12-17,North,Furniture,Bed,10,551.25,0.22,4299.75,535.42,Cash,Returning,Retail
+ORD0312,CUST3171,2023-04-26,North,Furniture,Bed,8,1603.8,0.19,10392.62,2176.03,Debit Card,New,Retail
+ORD0313,CUST1472,2024-01-03,South,Sports,Gym Kit,10,1363.22,0.05,12950.59,1631.13,Cash,Returning,Online
+ORD0314,CUST9598,2024-11-25,South,Food,Bakery,1,145.41,0.2,116.33,6.1,UPI,New,Retail
+ORD0315,CUST1894,2024-07-25,North,Clothing,Shoes,6,1334.15,0.19,6483.97,516.97,Debit Card,Returning,Retail
+ORD0316,CUST4648,2024-06-03,West,Clothing,T-Shirt,8,654.85,0.1,4714.92,498.04,Cash,New,Online
+ORD0317,CUST9148,2023-05-02,North,Food,Bakery,10,907.24,0.26,6713.58,935.96,Credit Card,Returning,Retail
+ORD0318,CUST4389,2024-06-04,West,Electronics,Laptop,2,1587.73,0.29,2254.58,400.21,UPI,Returning,Online
+ORD0319,CUST6952,2024-11-03,West,Clothing,Shoes,6,1129.1,0.19,5487.43,793.63,Credit Card,New,Online
+ORD0320,CUST7125,2024-06-18,North,Electronics,Headphones,6,1663.17,0.29,7085.1,768.0,Credit Card,New,Retail
+ORD0321,CUST4532,2024-02-07,West,Clothing,Shoes,2,523.49,0.06,984.16,72.97,Debit Card,Returning,Online
+ORD0322,CUST9260,2024-08-26,South,Food,Snacks,10,263.97,0.27,1926.98,272.62,Cash,New,Online
+ORD0323,CUST3845,2023-07-01,South,Sports,Gym Kit,10,976.21,0.15,8297.78,1943.61,Credit Card,Returning,Retail
+ORD0324,CUST7518,2023-10-08,East,Sports,Gym Kit,7,1959.41,0.27,10012.59,2027.3,UPI,Returning,Online
+ORD0325,CUST9975,2024-12-19,East,Clothing,Shoes,10,1406.03,0.22,10967.03,1203.99,Net Banking,New,Online
+ORD0326,CUST9255,2023-07-02,East,Clothing,Jacket,6,1843.96,0.04,10621.21,2040.11,Credit Card,Returning,Retail
+ORD0327,CUST2744,2024-06-19,North,Sports,Gym Kit,9,586.14,0.25,3956.45,837.43,Cash,New,Online
+ORD0328,CUST3399,2023-09-14,North,Electronics,Smartphone,5,1505.37,0.05,7150.51,767.41,UPI,New,Online
+ORD0329,CUST7371,2023-08-18,South,Furniture,Bed,2,1239.9,0.2,1983.84,322.13,Net Banking,Returning,Online
+ORD0330,CUST1881,2024-07-19,North,Food,Bakery,7,1914.27,0.29,9513.92,1070.61,UPI,New,Retail
+ORD0331,CUST5819,2023-07-18,West,Clothing,Jacket,10,1102.3,0.18,9038.86,1855.04,Debit Card,New,Online
+ORD0332,CUST5178,2023-06-14,North,Clothing,T-Shirt,7,100.46,0.08,646.96,66.54,UPI,Returning,Online
+ORD0333,CUST5934,2024-11-08,West,Electronics,Smartphone,6,1201.82,0.23,5552.41,972.08,Net Banking,Returning,Online
+ORD0334,CUST9798,2024-07-10,West,Furniture,Table,3,1050.8,0.24,2395.82,196.16,Credit Card,Returning,Online
+ORD0335,CUST8780,2024-06-27,North,Clothing,Jacket,6,734.38,0.07,4097.84,821.74,Credit Card,Returning,Retail
+ORD0336,CUST7322,2023-04-27,East,Clothing,Jeans,1,1371.45,0.1,1234.31,287.82,Net Banking,Returning,Online
+ORD0337,CUST4154,2024-10-29,East,Sports,Tennis Racket,9,1609.58,0.13,12603.01,740.68,Net Banking,New,Online
+ORD0338,CUST7950,2024-12-02,North,Clothing,T-Shirt,2,437.35,0.19,708.51,65.63,Debit Card,Returning,Online
+ORD0339,CUST5127,2023-07-02,North,Clothing,T-Shirt,8,1439.4,0.01,11400.05,737.01,Net Banking,New,Retail
+ORD0340,CUST2938,2024-11-20,North,Food,Bakery,8,1267.83,0.13,8824.1,471.01,Net Banking,New,Online
+ORD0341,CUST5612,2023-03-30,West,Electronics,Headphones,9,230.15,0.24,1574.23,173.59,Cash,Returning,Online
+ORD0342,CUST5832,2024-07-12,South,Food,Beverages,9,455.33,0.22,3196.42,669.18,UPI,Returning,Online
+ORD0343,CUST2394,2024-07-14,East,Sports,Cricket Bat,2,102.71,0.17,170.5,21.96,Debit Card,Returning,Online
+ORD0344,CUST3971,2023-04-28,North,Food,Beverages,3,384.31,0.19,933.87,93.9,Net Banking,Returning,Online
+ORD0345,CUST6851,2023-12-05,South,Furniture,Chair,5,214.44,0.22,836.32,123.31,Debit Card,New,Retail
+ORD0346,CUST3496,2023-11-10,East,Sports,Football,4,649.22,0.14,2233.32,386.96,UPI,Returning,Online
+ORD0347,CUST6889,2023-10-11,South,Electronics,Headphones,4,1575.61,0.21,4978.93,887.08,UPI,Returning,Retail
+ORD0348,CUST5597,2023-03-25,South,Food,Groceries,5,984.2,0.03,4773.37,854.96,Net Banking,New,Retail
+ORD0349,CUST7637,2024-08-15,South,Electronics,Laptop,1,1702.18,0.19,1378.77,293.03,Credit Card,Returning,Retail
+ORD0350,CUST3193,2023-10-25,West,Clothing,Jacket,7,462.15,0.23,2490.99,489.84,Net Banking,New,Retail
+ORD0351,CUST9423,2023-06-19,South,Furniture,Chair,4,1699.0,0.24,5164.96,892.54,Cash,New,Online
+ORD0352,CUST2029,2023-08-26,East,Sports,Cricket Bat,8,1879.57,0.01,14886.19,3011.39,UPI,New,Online
+ORD0353,CUST6309,2024-10-26,North,Clothing,Jacket,7,949.95,0.14,5718.7,339.05,Net Banking,Returning,Retail
+ORD0354,CUST9465,2023-03-21,East,Sports,Cricket Bat,7,1314.28,0.11,8187.96,1479.3,Cash,New,Retail
+ORD0355,CUST8207,2023-05-23,South,Furniture,Sofa,8,1589.46,0.27,9282.45,476.37,Debit Card,New,Retail
+ORD0356,CUST4773,2024-11-07,West,Clothing,Jeans,3,331.57,0.18,815.66,174.05,UPI,New,Retail
+ORD0357,CUST1706,2023-09-07,South,Food,Bakery,4,1189.77,0.19,3854.85,509.53,Net Banking,New,Online
+ORD0358,CUST7642,2024-06-13,North,Sports,Football,10,310.79,0.05,2952.51,692.33,UPI,New,Online
+ORD0359,CUST3979,2024-08-19,East,Food,Bakery,8,357.72,0.25,2146.32,365.23,Debit Card,Returning,Retail
+ORD0360,CUST9263,2024-06-19,West,Sports,Football,4,768.86,0.04,2952.42,157.4,Debit Card,New,Online
+ORD0361,CUST9835,2023-05-14,North,Food,Snacks,9,1016.59,0.04,8783.34,1286.3,Cash,Returning,Retail
+ORD0362,CUST2600,2023-12-25,West,Electronics,Tablet,4,1878.07,0.14,6460.56,1316.24,Debit Card,Returning,Retail
+ORD0363,CUST1116,2023-01-06,North,Clothing,T-Shirt,5,1204.62,0.16,5059.4,513.84,Net Banking,New,Retail
+ORD0364,CUST5281,2023-09-17,West,Clothing,Jacket,7,737.29,0.05,4902.98,884.08,Net Banking,Returning,Retail
+ORD0365,CUST8925,2024-07-26,East,Food,Beverages,7,1113.17,0.17,6467.52,554.55,UPI,Returning,Retail
+ORD0366,CUST9328,2023-08-08,West,Clothing,T-Shirt,4,904.26,0.21,2857.46,235.34,UPI,New,Online
+ORD0367,CUST2049,2023-04-01,East,Food,Snacks,2,1650.05,0.14,2838.09,482.61,Debit Card,Returning,Online
+ORD0368,CUST1941,2023-10-21,South,Sports,Football,7,1862.76,0.12,11474.6,2079.6,Cash,Returning,Online
+ORD0369,CUST3776,2023-08-26,North,Clothing,Jacket,4,86.55,0.18,283.88,43.48,UPI,New,Online
+ORD0370,CUST4281,2024-08-23,North,Clothing,T-Shirt,5,1563.75,0.11,6958.69,897.87,Credit Card,New,Retail
+ORD0371,CUST8450,2023-07-19,West,Sports,Tennis Racket,6,1927.31,0.08,10638.75,1822.13,Net Banking,New,Retail
+ORD0372,CUST9409,2023-04-30,East,Clothing,Shoes,9,230.8,0.02,2035.66,221.58,Net Banking,Returning,Retail
+ORD0373,CUST1448,2024-04-16,West,Food,Bakery,4,1519.8,0.29,4316.23,611.91,Credit Card,Returning,Online
+ORD0374,CUST1159,2024-07-02,East,Food,Beverages,4,1604.32,0.12,5647.21,681.16,Debit Card,Returning,Online
+ORD0375,CUST5408,2023-08-12,South,Food,Groceries,2,1118.01,0.05,2124.22,239.56,Debit Card,Returning,Online
+ORD0376,CUST6833,2024-09-25,South,Clothing,Jeans,5,429.42,0.06,2018.27,201.7,Credit Card,New,Online
+ORD0377,CUST9066,2023-11-19,East,Food,Snacks,9,1916.83,0.25,12938.6,1607.48,Cash,New,Retail
+ORD0378,CUST1533,2024-07-07,East,Food,Beverages,10,273.93,0.16,2301.01,309.8,Cash,New,Retail
+ORD0379,CUST2650,2024-08-17,East,Electronics,Tablet,6,1384.64,0.0,8307.84,765.57,UPI,Returning,Online
+ORD0380,CUST9171,2023-07-08,West,Sports,Tennis Racket,4,553.43,0.29,1571.74,186.44,Debit Card,Returning,Retail
+ORD0381,CUST4744,2024-12-03,North,Furniture,Bed,5,912.44,0.17,3786.63,930.96,UPI,New,Retail
+ORD0382,CUST3893,2023-01-10,West,Food,Beverages,3,1604.07,0.22,3753.52,542.75,Cash,New,Retail
+ORD0383,CUST3676,2024-12-08,North,Food,Groceries,5,1133.03,0.17,4702.07,609.77,Debit Card,Returning,Retail
+ORD0384,CUST6638,2023-09-21,North,Electronics,Tablet,6,534.34,0.11,2853.38,460.82,Cash,New,Retail
+ORD0385,CUST6818,2023-10-19,East,Sports,Cricket Bat,10,1160.27,0.19,9398.19,797.98,Net Banking,Returning,Retail
+ORD0386,CUST6527,2023-06-21,West,Electronics,Tablet,10,587.32,0.19,4757.29,375.68,Net Banking,Returning,Online
+ORD0387,CUST7479,2023-10-01,East,Electronics,Smartphone,6,471.87,0.1,2548.1,275.89,Cash,Returning,Retail
+ORD0388,CUST2311,2023-09-15,South,Food,Beverages,3,1711.34,0.04,4928.66,477.71,Debit Card,Returning,Online
+ORD0389,CUST2702,2023-03-27,East,Electronics,Laptop,8,1105.9,0.01,8758.73,1133.4,Net Banking,New,Online
+ORD0390,CUST9630,2023-05-15,South,Food,Groceries,4,509.85,0.09,1855.85,325.32,Credit Card,New,Retail
+ORD0391,CUST3213,2024-03-31,South,Furniture,Bed,8,1950.46,0.16,13107.09,1369.47,Net Banking,Returning,Retail
+ORD0392,CUST6992,2023-11-12,West,Sports,Tennis Racket,6,973.67,0.07,5433.08,368.96,UPI,New,Retail
+ORD0393,CUST9767,2024-04-25,North,Electronics,Laptop,9,1634.45,0.25,11032.54,1310.41,Cash,Returning,Retail
+ORD0394,CUST7745,2023-07-13,West,Electronics,Tablet,5,1202.07,0.24,4567.87,729.23,Cash,New,Online
+ORD0395,CUST5454,2024-09-19,East,Food,Bakery,4,540.7,0.13,1881.64,184.24,Net Banking,Returning,Retail
+ORD0396,CUST5458,2024-04-08,West,Clothing,T-Shirt,3,290.52,0.03,845.41,119.26,Debit Card,Returning,Online
+ORD0397,CUST8183,2023-05-09,North,Clothing,T-Shirt,9,63.82,0.29,407.81,43.4,Debit Card,New,Online
+ORD0398,CUST8597,2024-01-16,North,Electronics,Tablet,4,696.99,0.09,2537.04,532.51,UPI,New,Online
+ORD0399,CUST7251,2023-09-14,North,Electronics,Headphones,7,161.34,0.14,971.27,85.9,Credit Card,New,Retail
+ORD0400,CUST4415,2024-11-12,West,Food,Beverages,1,414.38,0.22,323.22,22.23,Cash,Returning,Retail
+ORD0401,CUST6905,2023-07-23,North,Clothing,T-Shirt,9,1051.43,0.08,8705.84,1547.06,Debit Card,New,Online
+ORD0402,CUST1146,2023-09-06,North,Food,Groceries,1,351.37,0.08,323.26,23.9,Net Banking,Returning,Online
+ORD0403,CUST1983,2024-10-02,North,Furniture,Chair,4,332.24,0.03,1289.09,223.95,UPI,New,Online
+ORD0404,CUST8187,2023-12-22,South,Clothing,Shoes,4,647.14,0.17,2148.5,384.43,Credit Card,Returning,Retail
+ORD0405,CUST9029,2024-12-14,South,Clothing,Jacket,1,980.9,0.13,853.38,92.97,Net Banking,New,Retail
+ORD0406,CUST2128,2023-06-14,South,Furniture,Bed,5,1737.97,0.18,7125.68,1582.7,Cash,Returning,Retail
+ORD0407,CUST1306,2023-07-09,East,Sports,Tennis Racket,8,21.43,0.19,138.87,17.47,Net Banking,New,Retail
+ORD0408,CUST5638,2024-09-19,East,Electronics,Tablet,4,1057.66,0.15,3596.04,576.42,Cash,Returning,Online
+ORD0409,CUST2753,2023-07-26,West,Electronics,Laptop,1,1673.68,0.04,1606.73,361.03,Debit Card,New,Online
+ORD0410,CUST4616,2024-01-11,North,Sports,Gym Kit,8,1061.13,0.21,6706.34,678.6,Credit Card,New,Retail
+ORD0411,CUST1955,2024-01-13,East,Electronics,Tablet,1,734.63,0.22,573.01,130.7,Net Banking,New,Online
+ORD0412,CUST7313,2024-06-28,South,Furniture,Chair,4,1921.96,0.03,7457.2,1454.41,Debit Card,New,Online
+ORD0413,CUST7997,2024-12-20,North,Sports,Gym Kit,2,1537.24,0.17,2551.82,471.83,Debit Card,New,Retail
+ORD0414,CUST6319,2023-11-19,East,Sports,Tennis Racket,3,1077.12,0.18,2649.72,627.2,Cash,Returning,Retail
+ORD0415,CUST6898,2023-09-18,West,Sports,Cricket Bat,10,1100.34,0.11,9793.03,1567.35,Cash,Returning,Online
+ORD0416,CUST5920,2023-01-07,South,Electronics,Headphones,10,52.28,0.04,501.89,114.46,Debit Card,Returning,Online
+ORD0417,CUST5093,2024-01-11,South,Furniture,Table,2,94.72,0.11,168.6,13.1,UPI,Returning,Online
+ORD0418,CUST3832,2024-05-09,West,Sports,Gym Kit,10,1837.41,0.22,14331.8,2790.63,Net Banking,New,Retail
+ORD0419,CUST7824,2024-03-20,North,Electronics,Tablet,2,1564.64,0.28,2253.08,263.34,Debit Card,New,Retail
+ORD0420,CUST4617,2024-05-29,South,Electronics,Headphones,9,101.54,0.16,767.64,61.35,Credit Card,Returning,Retail
+ORD0421,CUST2352,2023-12-11,West,Sports,Football,4,875.23,0.24,2660.7,211.8,Net Banking,New,Retail
+ORD0422,CUST8879,2023-05-19,South,Furniture,Chair,7,1013.61,0.23,5463.36,415.63,Cash,Returning,Online
+ORD0423,CUST2467,2024-08-12,North,Sports,Cricket Bat,4,161.86,0.23,498.53,57.17,Cash,Returning,Retail
+ORD0424,CUST6729,2023-06-23,West,Furniture,Table,6,702.16,0.2,3370.37,687.34,Net Banking,New,Retail
+ORD0425,CUST2841,2023-03-29,North,Electronics,Smartphone,4,1377.01,0.05,5232.64,1024.01,Debit Card,New,Retail
+ORD0426,CUST4471,2024-07-04,South,Electronics,Headphones,2,624.13,0.14,1073.5,124.93,Net Banking,Returning,Retail
+ORD0427,CUST3790,2023-09-19,North,Sports,Cricket Bat,1,765.68,0.27,558.95,86.84,UPI,New,Retail
+ORD0428,CUST6901,2024-11-06,North,Electronics,Tablet,1,151.86,0.2,121.49,22.18,Credit Card,Returning,Retail
+ORD0429,CUST9709,2024-09-03,North,Clothing,Shoes,9,1953.69,0.03,17055.71,1928.85,Debit Card,New,Retail
+ORD0430,CUST3572,2024-02-07,North,Sports,Football,1,509.84,0.16,428.27,49.99,UPI,Returning,Retail
+ORD0431,CUST1482,2024-02-01,East,Furniture,Table,9,566.24,0.02,4994.24,507.09,Debit Card,New,Retail
+ORD0432,CUST4726,2024-10-02,West,Food,Beverages,2,1465.18,0.16,2461.5,456.85,Debit Card,New,Retail
+ORD0433,CUST4314,2024-07-08,South,Furniture,Sofa,8,1093.62,0.06,8224.02,639.13,UPI,New,Retail
+ORD0434,CUST6203,2023-07-08,South,Clothing,Jeans,6,154.27,0.16,777.52,150.75,Credit Card,Returning,Retail
+ORD0435,CUST3489,2023-10-08,South,Food,Groceries,8,1496.31,0.25,8977.86,1592.4,Credit Card,New,Online
+ORD0436,CUST1427,2024-12-04,East,Electronics,Headphones,10,1142.75,0.07,10627.57,1024.89,Credit Card,Returning,Online
+ORD0437,CUST4166,2023-06-17,South,Sports,Gym Kit,6,384.27,0.12,2028.95,293.73,Credit Card,Returning,Online
+ORD0438,CUST3901,2023-03-09,West,Furniture,Bed,4,1489.89,0.3,4171.69,840.83,Net Banking,Returning,Retail
+ORD0439,CUST6126,2024-01-25,West,Food,Beverages,7,821.64,0.01,5693.97,1122.09,Net Banking,New,Online
+ORD0440,CUST7347,2023-02-10,North,Food,Bakery,1,1758.0,0.07,1634.94,257.62,Debit Card,Returning,Retail
+ORD0441,CUST9470,2023-02-25,South,Food,Groceries,5,933.47,0.13,4060.59,700.97,Cash,Returning,Online
+ORD0442,CUST7440,2023-05-19,West,Sports,Football,3,1561.89,0.28,3373.68,638.38,UPI,Returning,Online
+ORD0443,CUST5097,2023-04-03,East,Clothing,Shoes,10,1795.3,0.27,13105.69,2968.57,Debit Card,New,Online
+ORD0444,CUST3619,2024-06-07,West,Electronics,Tablet,6,188.91,0.21,895.43,174.94,Net Banking,Returning,Online
+ORD0445,CUST3930,2023-05-29,North,Clothing,Jacket,10,1745.18,0.26,12914.33,1064.46,Cash,Returning,Retail
+ORD0446,CUST5146,2024-09-29,North,Food,Groceries,3,252.76,0.04,727.95,65.93,Cash,Returning,Retail
+ORD0447,CUST8434,2024-05-02,West,Sports,Football,10,1767.75,0.07,16440.07,2758.19,Cash,New,Online
+ORD0448,CUST3429,2023-07-09,North,Clothing,Jacket,10,1264.7,0.25,9485.25,868.16,UPI,New,Online
+ORD0449,CUST3643,2023-07-02,East,Electronics,Headphones,6,1842.36,0.01,10943.62,1459.78,Net Banking,New,Retail
+ORD0450,CUST2108,2024-01-24,West,Sports,Tennis Racket,1,204.39,0.09,185.99,23.01,Net Banking,New,Retail
+ORD0451,CUST4438,2024-06-21,South,Food,Beverages,2,1395.35,0.08,2567.44,399.01,Net Banking,New,Online
+ORD0452,CUST5705,2024-12-24,West,Sports,Football,8,1453.67,0.18,9536.08,1980.04,Net Banking,Returning,Retail
+ORD0453,CUST9069,2024-05-24,South,Sports,Tennis Racket,3,1236.29,0.15,3152.54,617.38,Net Banking,New,Retail
+ORD0454,CUST7793,2023-08-01,West,Clothing,T-Shirt,2,67.49,0.19,109.33,8.05,Credit Card,Returning,Retail
+ORD0455,CUST6042,2023-03-11,East,Sports,Cricket Bat,1,1288.42,0.21,1017.85,102.68,Net Banking,Returning,Online
+ORD0456,CUST4178,2023-06-29,East,Electronics,Headphones,6,804.18,0.17,4004.82,969.26,UPI,Returning,Retail
+ORD0457,CUST8577,2023-12-10,West,Electronics,Smartphone,8,327.66,0.14,2254.3,502.81,Credit Card,Returning,Retail
+ORD0458,CUST2084,2023-12-29,South,Sports,Football,4,1163.25,0.1,4187.7,976.73,UPI,New,Retail
+ORD0459,CUST6152,2023-11-12,North,Food,Beverages,10,1219.26,0.06,11461.04,840.88,UPI,Returning,Online
+ORD0460,CUST3867,2023-11-06,North,Food,Beverages,6,914.77,0.29,3896.92,363.3,UPI,New,Online
+ORD0461,CUST6572,2023-07-14,West,Electronics,Tablet,9,69.37,0.14,536.92,80.54,Net Banking,Returning,Retail
+ORD0462,CUST7350,2024-04-15,North,Clothing,T-Shirt,9,1359.9,0.04,11749.54,2290.15,Credit Card,Returning,Online
+ORD0463,CUST6119,2024-11-05,North,Sports,Football,6,944.41,0.01,5609.8,864.56,Net Banking,Returning,Online
+ORD0464,CUST2927,2024-11-18,East,Furniture,Table,4,587.4,0.16,1973.66,403.73,Debit Card,New,Retail
+ORD0465,CUST6218,2024-07-16,East,Electronics,Laptop,10,1128.06,0.03,10942.18,1734.4,Debit Card,Returning,Online
+ORD0466,CUST1475,2023-05-14,West,Clothing,T-Shirt,5,1234.26,0.1,5554.17,770.53,Credit Card,New,Retail
+ORD0467,CUST8304,2024-10-06,East,Electronics,Laptop,7,796.0,0.21,4401.88,1004.75,UPI,Returning,Online
+ORD0468,CUST8672,2024-12-16,North,Sports,Football,8,1144.22,0.03,8879.15,1868.8,Cash,Returning,Retail
+ORD0469,CUST7423,2024-01-08,South,Food,Beverages,4,304.57,0.27,889.34,90.37,UPI,Returning,Retail
+ORD0470,CUST5624,2023-06-24,East,Food,Snacks,2,961.16,0.11,1710.86,243.37,Net Banking,New,Online
+ORD0471,CUST7566,2024-04-17,West,Food,Snacks,6,1121.18,0.02,6592.54,727.97,Debit Card,New,Online
+ORD0472,CUST6606,2024-03-21,South,Food,Bakery,2,694.61,0.24,1055.81,177.58,Debit Card,New,Retail
+ORD0473,CUST2140,2024-02-20,North,Electronics,Tablet,6,1119.07,0.25,5035.82,429.23,Net Banking,Returning,Retail
+ORD0474,CUST1003,2024-10-13,South,Food,Snacks,2,450.87,0.04,865.67,143.83,Debit Card,Returning,Retail
+ORD0475,CUST5989,2024-11-26,West,Food,Bakery,4,427.21,0.26,1264.54,139.03,UPI,New,Online
+ORD0476,CUST1013,2023-02-24,East,Sports,Gym Kit,3,1707.96,0.02,5021.4,1156.0,Credit Card,Returning,Online
+ORD0477,CUST8130,2024-01-26,South,Clothing,Shoes,10,800.65,0.1,7205.85,911.96,Debit Card,Returning,Online
+ORD0478,CUST3056,2024-11-17,South,Clothing,Shoes,6,1683.13,0.05,9593.84,2393.58,Credit Card,New,Online
+ORD0479,CUST8471,2024-03-01,West,Clothing,Shoes,7,1950.45,0.04,13107.02,1015.06,Net Banking,New,Retail
+ORD0480,CUST1121,2024-03-10,West,Sports,Gym Kit,9,1643.74,0.12,13018.42,1238.68,Debit Card,Returning,Retail
+ORD0481,CUST8889,2023-04-26,North,Sports,Tennis Racket,1,1956.9,0.17,1624.23,310.19,Debit Card,Returning,Retail
+ORD0482,CUST2279,2024-11-10,East,Sports,Football,9,1782.03,0.03,15557.12,2247.85,Net Banking,New,Retail
+ORD0483,CUST7897,2023-12-06,East,Sports,Football,8,918.99,0.27,5366.9,884.43,UPI,Returning,Online
+ORD0484,CUST1845,2024-08-09,East,Electronics,Headphones,10,535.68,0.19,4339.01,718.66,Net Banking,New,Retail
+ORD0485,CUST5603,2023-05-16,East,Food,Snacks,3,1021.08,0.26,2266.8,239.31,UPI,New,Online
+ORD0486,CUST5280,2023-06-29,South,Sports,Cricket Bat,10,1483.16,0.2,11865.28,1470.74,Cash,New,Online
+ORD0487,CUST7277,2024-02-27,South,Furniture,Chair,3,1199.18,0.25,2698.15,586.91,Cash,New,Online
+ORD0488,CUST8602,2023-06-21,West,Sports,Tennis Racket,1,1291.68,0.23,994.59,72.8,Cash,Returning,Retail
+ORD0489,CUST8122,2024-06-27,North,Sports,Cricket Bat,7,1373.35,0.12,8459.84,867.35,UPI,Returning,Retail
+ORD0490,CUST5466,2024-03-18,East,Furniture,Chair,2,1837.07,0.19,2976.05,717.93,UPI,Returning,Online
+ORD0491,CUST4193,2024-08-25,East,Furniture,Bed,8,1550.84,0.22,9677.24,1905.09,Debit Card,Returning,Online
+ORD0492,CUST4594,2023-12-26,East,Electronics,Laptop,1,834.27,0.16,700.79,131.12,UPI,New,Online
+ORD0493,CUST2995,2024-09-05,North,Electronics,Laptop,1,1878.24,0.2,1502.59,326.2,Credit Card,New,Retail
+ORD0494,CUST8429,2023-03-19,East,Sports,Cricket Bat,2,1397.39,0.08,2571.2,368.69,Cash,Returning,Retail
+ORD0495,CUST5230,2023-03-03,East,Clothing,T-Shirt,5,1558.67,0.11,6936.08,808.27,Debit Card,Returning,Online
+ORD0496,CUST8065,2024-07-07,South,Food,Beverages,10,797.42,0.19,6459.1,463.03,Net Banking,New,Retail
+ORD0497,CUST1307,2024-04-01,West,Furniture,Chair,1,164.38,0.17,136.44,13.66,Debit Card,New,Online
+ORD0498,CUST9039,2024-06-11,West,Food,Groceries,3,1406.11,0.27,3079.38,507.88,Cash,Returning,Online
+ORD0499,CUST9770,2023-05-05,East,Sports,Cricket Bat,1,781.16,0.21,617.12,127.11,UPI,Returning,Retail
+ORD0500,CUST5750,2024-04-15,South,Electronics,Laptop,6,1078.56,0.29,4594.67,303.67,Debit Card,New,Retail
+ORD0501,CUST8175,2023-03-28,South,Clothing,Jacket,7,1794.99,0.19,10177.59,1240.16,Debit Card,New,Online
+ORD0502,CUST9748,2024-05-26,West,Electronics,Smartphone,8,789.76,0.24,4801.74,857.98,Credit Card,New,Retail
+ORD0503,CUST8509,2024-06-19,South,Electronics,Headphones,1,822.91,0.06,773.54,139.83,Net Banking,New,Online
+ORD0504,CUST4976,2023-02-16,South,Electronics,Smartphone,8,1314.59,0.14,9044.38,2112.8,Credit Card,New,Online
+ORD0505,CUST2870,2023-04-19,West,Furniture,Chair,8,1230.23,0.25,7381.38,463.49,Net Banking,New,Online
+ORD0506,CUST2979,2023-11-29,South,Clothing,Shoes,6,1626.81,0.29,6930.21,1286.8,UPI,New,Online
+ORD0507,CUST7060,2023-06-22,South,Sports,Cricket Bat,6,145.18,0.08,801.39,161.49,Cash,New,Online
+ORD0508,CUST1104,2023-03-24,North,Clothing,T-Shirt,10,764.74,0.05,7265.03,1641.35,Debit Card,New,Retail
+ORD0509,CUST4919,2024-02-26,South,Food,Bakery,3,428.2,0.19,1040.53,160.88,Net Banking,New,Online
+ORD0510,CUST9686,2023-05-01,North,Food,Snacks,5,708.75,0.0,3543.75,344.2,Net Banking,Returning,Online
+ORD0511,CUST9151,2024-04-30,South,Food,Beverages,5,125.08,0.03,606.64,48.44,Debit Card,New,Online
+ORD0512,CUST1709,2024-04-09,North,Furniture,Sofa,4,880.65,0.1,3170.34,669.04,Credit Card,New,Online
+ORD0513,CUST6340,2024-08-29,West,Electronics,Tablet,9,249.81,0.27,1641.25,318.86,Debit Card,Returning,Online
+ORD0514,CUST4615,2024-01-20,North,Electronics,Headphones,4,214.17,0.22,668.21,149.66,Cash,Returning,Online
+ORD0515,CUST8499,2023-05-20,South,Food,Beverages,4,1857.22,0.14,6388.84,814.36,UPI,Returning,Online
+ORD0516,CUST8513,2024-04-21,West,Furniture,Table,1,1390.58,0.02,1362.77,105.34,Debit Card,Returning,Online
+ORD0517,CUST2416,2023-08-24,West,Furniture,Table,10,1813.04,0.17,15048.23,2416.01,Net Banking,Returning,Online
+ORD0518,CUST5060,2023-09-10,East,Sports,Gym Kit,8,572.76,0.22,3574.02,704.92,Cash,New,Online
+ORD0519,CUST1550,2024-05-31,West,Sports,Football,7,1960.76,0.01,13588.07,1958.46,Net Banking,Returning,Retail
+ORD0520,CUST4571,2024-02-21,South,Electronics,Tablet,8,496.21,0.17,3294.83,172.93,UPI,Returning,Online
+ORD0521,CUST1399,2024-08-07,West,Electronics,Laptop,8,1344.69,0.05,10219.64,1449.72,Cash,New,Retail
+ORD0522,CUST6454,2024-01-30,North,Clothing,Jacket,8,1413.73,0.0,11309.84,1984.44,UPI,Returning,Retail
+ORD0523,CUST6963,2024-06-11,North,Sports,Cricket Bat,2,1248.5,0.1,2247.3,531.37,Credit Card,Returning,Retail
+ORD0524,CUST4354,2024-07-28,South,Food,Snacks,6,745.54,0.19,3623.32,691.96,UPI,New,Online
+ORD0525,CUST5540,2024-03-09,North,Food,Beverages,4,654.52,0.27,1911.2,288.04,Credit Card,Returning,Retail
+ORD0526,CUST9730,2024-11-25,East,Food,Bakery,9,1062.83,0.04,9182.85,1762.79,Cash,Returning,Online
+ORD0527,CUST2791,2023-03-20,South,Clothing,Shoes,2,178.74,0.27,260.96,28.1,UPI,New,Online
+ORD0528,CUST9870,2024-11-29,South,Food,Beverages,4,1050.96,0.19,3405.11,369.91,Cash,Returning,Retail
+ORD0529,CUST6503,2024-06-16,West,Food,Snacks,5,394.34,0.01,1951.98,410.69,Net Banking,Returning,Retail
+ORD0530,CUST5259,2023-06-25,South,Food,Bakery,8,622.08,0.04,4777.57,993.11,Cash,Returning,Retail
+ORD0531,CUST9770,2023-06-14,East,Electronics,Smartphone,6,583.08,0.29,2483.92,431.52,Debit Card,New,Online
+ORD0532,CUST7056,2023-09-24,South,Clothing,Jeans,2,101.48,0.09,184.69,13.91,Debit Card,New,Retail
+ORD0533,CUST1408,2023-05-05,West,Furniture,Table,6,907.89,0.29,3867.61,606.17,Cash,New,Retail
+ORD0534,CUST5842,2024-10-24,West,Furniture,Table,1,1940.9,0.16,1630.36,246.97,UPI,New,Retail
+ORD0535,CUST1406,2023-11-12,West,Furniture,Chair,8,1802.35,0.04,13842.05,2217.39,Net Banking,New,Retail
+ORD0536,CUST5553,2023-08-16,South,Furniture,Chair,6,128.97,0.19,626.79,104.48,Credit Card,New,Retail
+ORD0537,CUST6915,2023-02-27,West,Electronics,Tablet,4,991.12,0.18,3250.87,495.14,Debit Card,Returning,Retail
+ORD0538,CUST2435,2024-07-28,South,Food,Groceries,1,583.61,0.11,519.41,127.52,Cash,Returning,Retail
+ORD0539,CUST2410,2024-09-04,South,Furniture,Table,7,1462.64,0.12,9009.86,1956.06,Debit Card,Returning,Retail
+ORD0540,CUST7708,2023-01-07,East,Sports,Tennis Racket,2,1867.64,0.18,3062.93,383.34,Cash,New,Retail
+ORD0541,CUST5947,2023-02-13,East,Sports,Cricket Bat,4,388.29,0.11,1382.31,222.24,Cash,Returning,Online
+ORD0542,CUST3034,2024-04-28,East,Electronics,Laptop,3,540.1,0.29,1150.41,249.46,Cash,New,Retail
+ORD0543,CUST6927,2024-09-05,West,Clothing,T-Shirt,2,1534.14,0.15,2608.04,636.69,Net Banking,Returning,Retail
+ORD0544,CUST1958,2023-06-16,South,Food,Snacks,6,1034.8,0.17,5153.3,1128.86,UPI,Returning,Online
+ORD0545,CUST1798,2023-12-31,East,Furniture,Table,1,559.89,0.13,487.1,113.21,UPI,New,Online
+ORD0546,CUST5932,2024-12-02,East,Clothing,T-Shirt,10,1510.2,0.16,12685.68,2847.79,UPI,New,Retail
+ORD0547,CUST3671,2023-12-15,North,Clothing,T-Shirt,3,1045.98,0.11,2792.77,410.48,Debit Card,New,Online
+ORD0548,CUST8856,2023-01-18,East,Clothing,T-Shirt,7,931.77,0.02,6391.94,1366.4,UPI,Returning,Online
+ORD0549,CUST3108,2023-08-16,South,Food,Groceries,3,1425.59,0.01,4234.0,901.48,Debit Card,Returning,Online
+ORD0550,CUST8934,2023-01-20,West,Clothing,Jeans,2,861.11,0.23,1326.11,95.94,Credit Card,New,Online
+ORD0551,CUST1168,2024-11-14,North,Electronics,Laptop,8,255.47,0.08,1880.26,118.93,Credit Card,New,Online
+ORD0552,CUST6698,2024-08-16,East,Clothing,Jacket,1,199.74,0.25,149.81,35.71,Debit Card,New,Online
+ORD0553,CUST1070,2024-07-04,North,Electronics,Laptop,9,449.66,0.06,3804.12,404.65,Debit Card,Returning,Retail
+ORD0554,CUST7948,2024-01-24,South,Sports,Cricket Bat,8,1353.58,0.03,10503.78,2278.78,Net Banking,New,Retail
+ORD0555,CUST5723,2024-01-05,North,Electronics,Headphones,2,942.49,0.16,1583.38,236.18,Credit Card,Returning,Retail
+ORD0556,CUST4700,2024-03-30,West,Electronics,Tablet,5,924.75,0.22,3606.53,675.9,UPI,Returning,Online
+ORD0557,CUST7494,2023-04-18,West,Electronics,Tablet,6,375.01,0.3,1575.04,233.63,Net Banking,New,Online
+ORD0558,CUST2060,2023-06-22,East,Clothing,Shoes,7,1396.17,0.29,6938.96,1375.9,Debit Card,Returning,Online
+ORD0559,CUST5472,2024-12-31,West,Sports,Gym Kit,2,481.08,0.13,837.08,125.41,UPI,Returning,Retail
+ORD0560,CUST4781,2024-05-24,South,Food,Groceries,3,1540.64,0.03,4483.26,448.94,Credit Card,New,Online
+ORD0561,CUST5960,2023-06-06,North,Electronics,Tablet,1,1944.7,0.11,1730.78,321.65,Credit Card,Returning,Retail
+ORD0562,CUST9955,2024-07-07,North,Clothing,Jacket,8,990.7,0.08,7291.55,865.68,Credit Card,Returning,Online
+ORD0563,CUST5965,2023-07-01,South,Food,Bakery,6,1708.69,0.13,8919.36,510.15,Cash,Returning,Online
+ORD0564,CUST9837,2024-07-21,West,Furniture,Bed,8,1532.74,0.17,10177.39,1507.38,Cash,New,Online
+ORD0565,CUST6250,2023-10-19,North,Food,Groceries,8,1190.27,0.11,8474.72,1570.34,Credit Card,New,Online
+ORD0566,CUST8014,2023-04-10,East,Furniture,Sofa,10,73.26,0.27,534.8,63.24,UPI,Returning,Retail
+ORD0567,CUST2073,2024-12-05,East,Electronics,Smartphone,4,484.55,0.09,1763.76,118.15,Credit Card,Returning,Online
+ORD0568,CUST5368,2024-03-07,North,Electronics,Headphones,1,932.6,0.26,690.12,112.91,Cash,New,Retail
+ORD0569,CUST4373,2024-11-22,East,Food,Bakery,6,1153.63,0.24,5260.55,368.3,Cash,Returning,Online
+ORD0570,CUST9779,2023-03-19,South,Sports,Tennis Racket,6,1939.47,0.06,10938.61,1937.11,UPI,Returning,Online
+ORD0571,CUST2552,2024-08-15,East,Furniture,Bed,4,1256.65,0.29,3568.89,690.73,UPI,New,Retail
+ORD0572,CUST8092,2023-11-04,East,Food,Beverages,6,1595.39,0.2,7657.87,845.19,Debit Card,Returning,Retail
+ORD0573,CUST9178,2023-07-11,South,Furniture,Bed,9,377.59,0.01,3364.33,641.46,Cash,Returning,Retail
+ORD0574,CUST5919,2024-12-02,West,Sports,Football,9,417.28,0.14,3229.75,316.76,Cash,Returning,Online
+ORD0575,CUST4868,2024-09-07,West,Clothing,Shoes,5,1650.95,0.19,6686.35,677.26,Debit Card,New,Online
+ORD0576,CUST7914,2024-03-22,North,Clothing,T-Shirt,4,1598.15,0.09,5817.27,855.58,Debit Card,New,Retail
+ORD0577,CUST1691,2024-10-21,West,Clothing,T-Shirt,5,1583.55,0.08,7284.33,1166.52,Credit Card,New,Online
+ORD0578,CUST2479,2024-11-04,West,Furniture,Sofa,2,1803.14,0.12,3173.53,389.35,Debit Card,New,Online
+ORD0579,CUST5125,2024-06-21,West,Sports,Football,9,1335.15,0.17,9973.57,2044.81,Credit Card,New,Online
+ORD0580,CUST4571,2024-03-09,South,Furniture,Sofa,10,1479.73,0.24,11245.95,2235.6,Credit Card,New,Online
+ORD0581,CUST2850,2024-01-19,East,Furniture,Bed,7,523.53,0.18,3005.06,444.96,Net Banking,Returning,Retail
+ORD0582,CUST1570,2023-01-22,North,Clothing,Jacket,3,738.74,0.21,1750.81,375.15,Debit Card,Returning,Retail
+ORD0583,CUST7438,2023-01-09,East,Furniture,Sofa,2,1079.12,0.07,2007.16,277.95,UPI,New,Online
+ORD0584,CUST7656,2024-10-21,North,Furniture,Table,3,1833.46,0.19,4455.31,1006.43,UPI,New,Retail
+ORD0585,CUST5275,2023-06-14,North,Food,Bakery,6,1440.42,0.26,6395.46,1368.94,UPI,Returning,Retail
+ORD0586,CUST3229,2024-10-18,North,Food,Snacks,1,1289.92,0.06,1212.52,168.15,Cash,New,Retail
+ORD0587,CUST3131,2024-10-26,West,Furniture,Chair,2,332.49,0.15,565.23,137.88,UPI,Returning,Retail
+ORD0588,CUST2382,2023-07-23,West,Clothing,Jacket,3,1381.18,0.25,3107.65,652.31,UPI,New,Retail
+ORD0589,CUST4747,2024-10-03,North,Food,Beverages,1,1897.26,0.28,1366.03,245.09,Cash,New,Retail
+ORD0590,CUST3787,2024-01-12,North,Clothing,T-Shirt,7,1243.65,0.18,7138.55,570.01,Credit Card,Returning,Retail
+ORD0591,CUST5717,2023-09-30,West,Food,Snacks,4,1432.86,0.06,5387.55,1198.12,Cash,New,Retail
+ORD0592,CUST1471,2023-05-30,East,Clothing,Jeans,5,1458.88,0.06,6856.74,590.19,UPI,New,Retail
+ORD0593,CUST6296,2023-05-17,West,Clothing,Jacket,10,1374.85,0.14,11823.71,615.59,Debit Card,Returning,Retail
+ORD0594,CUST8715,2023-08-29,East,Sports,Tennis Racket,2,208.65,0.02,408.95,47.67,Net Banking,New,Online
+ORD0595,CUST1673,2024-07-26,South,Furniture,Bed,5,1955.5,0.2,7822.0,597.97,UPI,New,Retail
+ORD0596,CUST2914,2023-09-24,East,Furniture,Bed,3,197.5,0.21,468.08,63.93,Credit Card,New,Retail
+ORD0597,CUST9470,2023-09-28,East,Furniture,Sofa,7,580.19,0.26,3005.38,518.69,Cash,New,Retail
+ORD0598,CUST4095,2023-02-24,South,Food,Beverages,9,1709.01,0.2,12304.87,2579.64,Credit Card,New,Online
+ORD0599,CUST1668,2024-05-21,West,Electronics,Tablet,5,343.84,0.14,1478.51,108.23,UPI,Returning,Retail
+ORD0600,CUST3757,2023-07-04,East,Food,Snacks,3,264.84,0.03,770.68,172.35,Net Banking,New,Online
+ORD0601,CUST6384,2023-04-07,North,Sports,Cricket Bat,7,1842.42,0.07,11994.15,1794.59,UPI,New,Retail
+ORD0602,CUST8861,2024-11-06,West,Furniture,Chair,6,324.48,0.02,1907.94,412.38,UPI,New,Retail
+ORD0603,CUST3118,2024-08-05,South,Electronics,Tablet,6,1895.89,0.3,7962.74,1842.38,Credit Card,Returning,Retail
+ORD0604,CUST4933,2023-07-02,West,Electronics,Laptop,9,1904.76,0.11,15257.13,1979.94,Credit Card,New,Online
+ORD0605,CUST5891,2023-05-04,West,Clothing,Shoes,7,584.17,0.23,3148.68,569.32,Cash,Returning,Online
+ORD0606,CUST5398,2024-05-02,West,Furniture,Chair,6,1035.05,0.15,5278.75,1198.71,Credit Card,Returning,Retail
+ORD0607,CUST4673,2024-04-19,South,Sports,Cricket Bat,7,1268.76,0.03,8614.88,1315.22,Cash,New,Retail
+ORD0608,CUST5921,2023-05-11,South,Food,Bakery,2,1816.27,0.14,3123.98,249.05,Net Banking,Returning,Retail
+ORD0609,CUST7766,2024-03-11,North,Sports,Football,9,171.53,0.01,1528.33,109.32,Cash,Returning,Retail
+ORD0610,CUST7438,2023-07-06,North,Furniture,Chair,9,52.21,0.22,366.51,52.26,Credit Card,Returning,Retail
+ORD0611,CUST4458,2023-07-11,South,Furniture,Bed,8,1255.14,0.08,9237.83,2247.97,Credit Card,Returning,Online
+ORD0612,CUST7637,2024-04-16,West,Food,Snacks,1,801.97,0.0,801.97,145.29,UPI,Returning,Retail
+ORD0613,CUST4083,2024-12-13,North,Furniture,Chair,3,287.53,0.06,810.83,172.86,Debit Card,Returning,Online
+ORD0614,CUST7912,2024-04-30,North,Clothing,Shoes,9,398.01,0.09,3259.7,465.11,Credit Card,New,Online
+ORD0615,CUST7418,2023-10-29,North,Food,Bakery,8,58.86,0.13,409.67,40.36,UPI,New,Online
+ORD0616,CUST1606,2023-10-25,West,Food,Bakery,8,1479.42,0.18,9705.0,1561.16,Cash,Returning,Retail
+ORD0617,CUST7834,2023-10-02,West,Clothing,T-Shirt,9,57.66,0.17,430.72,69.2,Credit Card,Returning,Retail
+ORD0618,CUST4802,2024-03-24,South,Food,Bakery,1,339.44,0.22,264.76,38.09,Net Banking,Returning,Retail
+ORD0619,CUST8738,2024-01-04,South,Clothing,Jacket,7,1920.41,0.25,10082.15,1861.38,Net Banking,New,Retail
+ORD0620,CUST9089,2024-03-01,East,Electronics,Tablet,3,363.12,0.05,1034.89,153.62,Debit Card,New,Online
+ORD0621,CUST1523,2024-05-30,North,Electronics,Headphones,5,726.95,0.05,3453.01,744.43,UPI,Returning,Online
+ORD0622,CUST1764,2023-12-30,East,Sports,Cricket Bat,2,1132.72,0.15,1925.62,478.96,Debit Card,New,Online
+ORD0623,CUST1687,2023-04-15,North,Food,Bakery,2,1949.83,0.23,3002.74,516.26,Debit Card,New,Online
+ORD0624,CUST3527,2023-04-12,East,Furniture,Table,5,1422.16,0.23,5475.32,819.54,UPI,New,Online
+ORD0625,CUST6592,2024-04-30,East,Clothing,Shoes,7,1543.05,0.0,10801.35,2343.49,Net Banking,New,Online
+ORD0626,CUST7909,2024-06-26,South,Furniture,Sofa,7,734.07,0.2,4110.79,330.19,Debit Card,Returning,Retail
+ORD0627,CUST1162,2023-05-30,North,Food,Bakery,9,1593.32,0.11,12762.49,714.09,Credit Card,Returning,Retail
+ORD0628,CUST3473,2024-10-18,North,Food,Beverages,7,141.71,0.23,763.82,139.04,Net Banking,Returning,Retail
+ORD0629,CUST3406,2024-06-24,West,Food,Groceries,6,1820.28,0.0,10921.68,1157.22,Cash,New,Retail
+ORD0630,CUST3064,2024-02-04,East,Furniture,Bed,4,1764.33,0.03,6845.6,1078.09,Debit Card,New,Retail
+ORD0631,CUST4954,2023-09-22,East,Sports,Tennis Racket,3,66.38,0.27,145.37,22.97,Cash,New,Online
+ORD0632,CUST8352,2023-05-08,East,Furniture,Sofa,9,721.86,0.01,6431.77,1158.96,Net Banking,New,Retail
+ORD0633,CUST4831,2024-06-30,East,Furniture,Table,10,1139.88,0.27,8321.12,1460.76,UPI,Returning,Online
+ORD0634,CUST8443,2024-01-05,North,Food,Beverages,2,669.14,0.17,1110.77,238.34,Debit Card,Returning,Retail
+ORD0635,CUST7050,2023-03-21,West,Electronics,Laptop,1,861.28,0.04,826.83,76.86,Net Banking,Returning,Retail
+ORD0636,CUST3668,2024-03-02,South,Sports,Gym Kit,7,1993.09,0.21,11021.79,2640.42,Net Banking,New,Retail
+ORD0637,CUST1534,2024-04-29,South,Food,Beverages,9,1729.28,0.04,14940.98,1382.47,Net Banking,Returning,Online
+ORD0638,CUST2929,2023-06-06,East,Sports,Gym Kit,2,259.32,0.17,430.47,24.99,UPI,Returning,Retail
+ORD0639,CUST5999,2023-02-19,East,Furniture,Bed,1,1586.58,0.04,1523.12,255.77,Debit Card,New,Retail
+ORD0640,CUST6074,2024-08-09,West,Electronics,Laptop,9,710.32,0.26,4730.73,631.62,UPI,Returning,Retail
+ORD0641,CUST3440,2024-04-04,East,Sports,Cricket Bat,3,1019.43,0.14,2630.13,368.18,Credit Card,Returning,Retail
+ORD0642,CUST2450,2023-10-12,South,Clothing,Shoes,6,1091.17,0.29,4648.38,1059.87,Credit Card,Returning,Online
+ORD0643,CUST9548,2024-08-06,South,Sports,Football,4,1911.23,0.16,6421.73,1294.13,Cash,New,Online
+ORD0644,CUST8278,2024-08-16,North,Sports,Cricket Bat,1,564.43,0.06,530.56,114.57,Net Banking,Returning,Retail
+ORD0645,CUST1394,2024-02-29,East,Sports,Football,8,1726.71,0.01,13675.54,1879.07,Cash,Returning,Online
+ORD0646,CUST3526,2023-04-02,East,Electronics,Laptop,9,352.95,0.04,3049.49,308.34,Cash,New,Online
+ORD0647,CUST3334,2023-11-24,West,Sports,Tennis Racket,3,73.8,0.02,216.97,27.77,UPI,Returning,Retail
+ORD0648,CUST9264,2024-06-04,West,Electronics,Laptop,4,494.45,0.18,1621.8,157.8,Credit Card,Returning,Online
+ORD0649,CUST1305,2023-08-28,East,Furniture,Bed,9,826.01,0.15,6318.98,830.94,Net Banking,New,Online
+ORD0650,CUST4333,2024-05-27,South,Sports,Cricket Bat,5,1145.13,0.13,4981.32,1092.18,UPI,New,Online
+ORD0651,CUST5739,2024-09-27,South,Sports,Gym Kit,9,914.45,0.0,8230.05,1176.32,Credit Card,New,Retail
+ORD0652,CUST5609,2024-06-06,North,Furniture,Sofa,7,1998.5,0.25,10492.12,971.05,Debit Card,New,Retail
+ORD0653,CUST4454,2024-03-18,East,Electronics,Tablet,2,1664.39,0.22,2596.45,648.5,UPI,Returning,Retail
+ORD0654,CUST3190,2023-01-17,North,Furniture,Table,6,696.43,0.14,3593.58,610.56,Net Banking,Returning,Online
+ORD0655,CUST9816,2024-02-07,North,Electronics,Smartphone,7,1120.47,0.21,6196.2,915.77,Credit Card,New,Retail
+ORD0656,CUST1138,2024-12-14,North,Electronics,Headphones,7,1658.38,0.11,10331.71,882.71,Cash,Returning,Online
+ORD0657,CUST6862,2024-12-27,South,Food,Snacks,4,1491.43,0.23,4593.6,854.92,Credit Card,Returning,Online
+ORD0658,CUST4425,2024-09-12,North,Clothing,Shoes,6,92.86,0.15,473.59,90.37,Debit Card,Returning,Online
+ORD0659,CUST3875,2024-11-29,North,Furniture,Bed,3,1112.53,0.2,2670.07,435.6,Net Banking,New,Online
+ORD0660,CUST4143,2023-10-08,North,Clothing,Jacket,10,1713.85,0.26,12682.49,2482.98,Net Banking,Returning,Retail
+ORD0661,CUST5489,2024-02-21,North,Electronics,Tablet,1,1710.64,0.1,1539.58,336.97,Net Banking,Returning,Retail
+ORD0662,CUST1084,2023-11-20,West,Furniture,Chair,4,112.99,0.28,325.41,50.92,Debit Card,Returning,Online
+ORD0663,CUST4225,2023-09-13,South,Sports,Football,4,1956.63,0.13,6809.07,441.83,UPI,Returning,Online
+ORD0664,CUST5102,2023-12-09,South,Electronics,Laptop,8,875.26,0.01,6932.06,1451.88,Credit Card,Returning,Online
+ORD0665,CUST8184,2024-09-06,North,Furniture,Chair,6,1048.96,0.07,5853.2,378.01,Cash,New,Online
+ORD0666,CUST2015,2023-05-11,West,Electronics,Laptop,7,640.29,0.25,3361.52,211.79,Credit Card,Returning,Retail
+ORD0667,CUST7735,2023-04-09,South,Electronics,Laptop,1,1127.33,0.09,1025.87,129.56,Net Banking,New,Retail
+ORD0668,CUST1425,2024-11-22,West,Food,Bakery,7,1762.28,0.19,9992.13,1178.3,Net Banking,Returning,Online
+ORD0669,CUST3064,2023-07-18,East,Electronics,Laptop,1,1198.45,0.02,1174.48,244.15,UPI,Returning,Retail
+ORD0670,CUST8140,2023-11-16,East,Sports,Gym Kit,3,501.44,0.24,1143.28,71.0,UPI,New,Online
+ORD0671,CUST3369,2024-08-23,North,Food,Groceries,10,698.94,0.11,6220.57,321.08,Debit Card,New,Retail
+ORD0672,CUST8794,2023-07-13,West,Furniture,Table,4,1288.3,0.06,4844.01,308.47,Net Banking,Returning,Retail
+ORD0673,CUST9125,2023-02-13,South,Sports,Tennis Racket,7,670.67,0.03,4553.85,1025.62,Credit Card,New,Online
+ORD0674,CUST4363,2024-01-20,West,Food,Beverages,4,971.88,0.23,2993.39,637.38,Debit Card,New,Retail
+ORD0675,CUST6896,2023-07-19,North,Electronics,Laptop,6,79.43,0.03,462.28,49.98,Credit Card,New,Online
+ORD0676,CUST5029,2024-07-21,South,Furniture,Table,4,1773.06,0.22,5531.95,652.57,Debit Card,New,Online
+ORD0677,CUST6544,2023-04-24,South,Furniture,Chair,1,1666.26,0.04,1599.61,289.49,UPI,Returning,Online
+ORD0678,CUST2071,2024-03-20,North,Furniture,Sofa,3,1883.5,0.29,4011.86,1001.12,Debit Card,New,Online
+ORD0679,CUST4098,2023-02-17,East,Clothing,Shoes,6,649.54,0.13,3390.6,600.91,Debit Card,Returning,Online
+ORD0680,CUST2333,2023-08-03,West,Electronics,Headphones,3,1705.98,0.29,3633.74,825.47,Net Banking,New,Online
+ORD0681,CUST7125,2024-12-30,West,Sports,Gym Kit,9,761.05,0.16,5753.54,493.65,Cash,Returning,Retail
+ORD0682,CUST4840,2024-04-07,West,Sports,Gym Kit,10,1306.48,0.06,12280.91,2812.05,Debit Card,Returning,Retail
+ORD0683,CUST8282,2023-10-30,East,Food,Beverages,6,523.97,0.03,3049.51,610.89,Debit Card,New,Retail
+ORD0684,CUST6194,2024-05-24,East,Sports,Tennis Racket,7,913.28,0.13,5561.88,686.91,Cash,New,Online
+ORD0685,CUST9401,2024-05-28,North,Food,Beverages,5,1297.8,0.11,5775.21,383.96,UPI,New,Online
+ORD0686,CUST5096,2023-12-04,East,Electronics,Laptop,6,95.8,0.06,540.31,48.27,UPI,New,Online
+ORD0687,CUST7647,2024-02-18,North,Sports,Tennis Racket,1,1544.75,0.08,1421.17,169.58,Cash,New,Retail
+ORD0688,CUST8559,2024-04-24,East,Clothing,Jeans,4,959.39,0.15,3261.93,675.86,Credit Card,Returning,Online
+ORD0689,CUST3102,2023-05-23,East,Food,Bakery,4,888.59,0.26,2630.23,147.35,Credit Card,Returning,Retail
+ORD0690,CUST9808,2024-12-08,East,Furniture,Table,7,862.92,0.23,4651.14,942.17,UPI,New,Online
+ORD0691,CUST7404,2024-08-10,West,Clothing,Jeans,6,1145.02,0.24,5221.29,1215.26,Debit Card,Returning,Online
+ORD0692,CUST5991,2024-10-16,North,Sports,Gym Kit,4,960.06,0.1,3456.22,837.74,Debit Card,New,Online
+ORD0693,CUST4373,2023-10-18,South,Electronics,Tablet,1,389.65,0.02,381.86,92.64,UPI,New,Retail
+ORD0694,CUST3572,2024-02-05,North,Electronics,Headphones,9,41.87,0.1,339.15,78.67,Debit Card,Returning,Retail
+ORD0695,CUST8778,2024-12-27,South,Electronics,Tablet,4,277.27,0.06,1042.54,142.24,Net Banking,Returning,Online
+ORD0696,CUST5044,2024-02-13,East,Sports,Gym Kit,5,419.37,0.3,1467.79,204.24,Net Banking,Returning,Retail
+ORD0697,CUST5873,2024-12-18,West,Food,Snacks,2,590.07,0.26,873.3,123.36,Net Banking,New,Retail
+ORD0698,CUST2565,2023-07-07,West,Clothing,Jeans,10,1471.82,0.14,12657.65,2938.68,Credit Card,New,Online
+ORD0699,CUST7738,2024-05-20,North,Furniture,Sofa,2,1402.13,0.22,2187.32,204.41,UPI,New,Online
+ORD0700,CUST1437,2024-04-18,North,Sports,Tennis Racket,7,912.85,0.08,5878.75,888.94,Cash,Returning,Retail
+ORD0701,CUST6359,2023-05-20,West,Food,Beverages,7,94.79,0.08,610.45,117.1,Cash,Returning,Online
+ORD0702,CUST1295,2023-06-24,North,Electronics,Smartphone,8,297.71,0.25,1786.26,389.96,Debit Card,Returning,Online
+ORD0703,CUST8219,2023-06-07,East,Sports,Gym Kit,3,173.62,0.23,401.06,74.39,Debit Card,New,Online
+ORD0704,CUST2684,2024-10-18,West,Sports,Cricket Bat,8,1399.55,0.25,8397.3,1782.77,UPI,Returning,Online
+ORD0705,CUST4908,2024-01-19,South,Sports,Football,1,1549.37,0.23,1193.01,281.27,Credit Card,New,Retail
+ORD0706,CUST3750,2023-04-09,South,Electronics,Laptop,6,1644.64,0.2,7894.27,494.45,Credit Card,Returning,Online
+ORD0707,CUST8010,2024-02-09,North,Furniture,Sofa,9,1261.04,0.19,9192.98,2177.5,Debit Card,New,Online
+ORD0708,CUST8516,2023-08-06,South,Furniture,Sofa,3,49.69,0.2,119.26,6.25,Credit Card,Returning,Retail
+ORD0709,CUST9784,2023-04-15,South,Electronics,Laptop,4,833.97,0.23,2568.63,385.08,UPI,New,Retail
+ORD0710,CUST8899,2024-11-13,North,Food,Beverages,6,367.16,0.23,1696.28,318.09,UPI,New,Retail
+ORD0711,CUST3032,2024-09-23,East,Food,Beverages,9,1183.19,0.3,7454.1,719.48,Debit Card,Returning,Online
+ORD0712,CUST4348,2024-01-20,North,Sports,Football,1,292.36,0.15,248.51,22.47,Debit Card,Returning,Retail
+ORD0713,CUST5726,2024-02-29,North,Clothing,Jacket,6,1294.33,0.23,5979.8,921.93,Debit Card,Returning,Retail
+ORD0714,CUST4644,2024-12-04,West,Clothing,Jeans,9,127.07,0.28,823.41,203.94,Net Banking,Returning,Online
+ORD0715,CUST3318,2024-10-11,South,Food,Snacks,2,1742.34,0.02,3414.99,302.2,Debit Card,New,Online
+ORD0716,CUST4236,2023-06-18,South,Sports,Cricket Bat,4,1024.7,0.13,3565.96,511.41,Cash,New,Online
+ORD0717,CUST2310,2024-05-07,East,Furniture,Sofa,10,907.58,0.19,7351.4,767.28,Cash,Returning,Online
+ORD0718,CUST1324,2024-05-08,West,Food,Bakery,7,1020.48,0.22,5571.82,1125.87,Cash,New,Retail
+ORD0719,CUST5640,2024-04-09,West,Sports,Cricket Bat,9,1458.76,0.08,12078.53,1723.97,Net Banking,Returning,Online
+ORD0720,CUST7131,2024-05-27,West,Furniture,Table,8,407.52,0.27,2379.92,120.99,Cash,Returning,Retail
+ORD0721,CUST3039,2023-02-09,West,Furniture,Bed,8,629.47,0.3,3525.03,226.47,Net Banking,New,Online
+ORD0722,CUST1945,2024-12-14,West,Food,Groceries,6,1029.02,0.15,5248.0,985.04,Cash,New,Online
+ORD0723,CUST3422,2024-10-22,East,Food,Snacks,6,1269.29,0.2,6092.59,1154.51,Net Banking,Returning,Online
+ORD0724,CUST2512,2023-04-30,West,Furniture,Table,10,1165.12,0.2,9320.96,766.98,Cash,New,Online
+ORD0725,CUST7271,2024-11-05,East,Food,Beverages,7,520.69,0.09,3316.8,807.76,Cash,New,Online
+ORD0726,CUST6047,2024-12-16,North,Sports,Tennis Racket,3,552.66,0.06,1558.5,311.17,Debit Card,Returning,Online
+ORD0727,CUST3890,2023-06-24,East,Electronics,Laptop,7,1059.42,0.2,5932.75,1166.43,Debit Card,New,Online
+ORD0728,CUST4292,2023-07-10,North,Food,Beverages,9,1898.0,0.14,14690.52,3127.23,Debit Card,New,Retail
+ORD0729,CUST7188,2023-03-29,North,Food,Bakery,10,236.21,0.19,1913.3,126.21,UPI,New,Retail
+ORD0730,CUST1118,2023-09-30,North,Electronics,Smartphone,8,980.68,0.23,6040.99,313.54,Credit Card,New,Online
+ORD0731,CUST6620,2024-01-15,East,Food,Groceries,8,957.0,0.1,6890.4,936.34,Debit Card,Returning,Retail
+ORD0732,CUST7583,2024-12-16,South,Food,Snacks,6,1748.69,0.24,7974.03,403.62,Credit Card,New,Retail
+ORD0733,CUST4079,2024-02-28,North,Clothing,Jacket,8,1244.34,0.2,7963.78,1155.07,UPI,New,Retail
+ORD0734,CUST6707,2023-03-25,West,Electronics,Headphones,8,482.45,0.15,3280.66,649.05,Cash,New,Retail
+ORD0735,CUST1520,2024-05-31,South,Furniture,Table,3,1742.32,0.26,3867.95,800.56,Cash,New,Retail
+ORD0736,CUST4946,2024-07-07,South,Sports,Gym Kit,3,1794.89,0.29,3823.12,559.83,Debit Card,New,Online
+ORD0737,CUST4610,2023-10-15,East,Electronics,Tablet,1,337.27,0.28,242.83,55.98,Cash,New,Online
+ORD0738,CUST2059,2024-08-12,East,Sports,Gym Kit,2,1595.17,0.1,2871.31,272.09,Cash,Returning,Retail
+ORD0739,CUST4082,2024-08-29,North,Clothing,Jeans,5,249.07,0.03,1207.99,81.94,Net Banking,Returning,Online
+ORD0740,CUST7359,2023-07-14,West,Furniture,Bed,10,1479.1,0.09,13459.81,2261.41,UPI,Returning,Online
+ORD0741,CUST5863,2023-05-29,South,Sports,Cricket Bat,2,802.72,0.16,1348.57,191.66,Cash,Returning,Online
+ORD0742,CUST6245,2023-02-05,East,Sports,Tennis Racket,3,1499.18,0.25,3373.15,727.08,Net Banking,New,Retail
+ORD0743,CUST3501,2023-12-08,South,Sports,Gym Kit,4,1000.15,0.21,3160.47,396.14,Debit Card,New,Online
+ORD0744,CUST9977,2023-01-23,West,Food,Bakery,5,1969.09,0.2,7876.36,1730.47,UPI,Returning,Retail
+ORD0745,CUST9978,2023-07-19,West,Furniture,Bed,7,162.21,0.22,885.67,94.3,Credit Card,New,Retail
+ORD0746,CUST8904,2024-12-13,East,Sports,Football,5,925.91,0.05,4398.07,340.9,Debit Card,New,Online
+ORD0747,CUST7169,2023-06-01,West,Clothing,T-Shirt,6,1457.4,0.17,7257.85,1347.52,Debit Card,New,Online
+ORD0748,CUST8107,2023-12-13,South,Furniture,Bed,3,1891.23,0.04,5446.74,833.83,Cash,New,Online
+ORD0749,CUST7150,2024-10-30,North,Electronics,Smartphone,7,987.48,0.21,5460.76,1315.56,Cash,Returning,Retail
+ORD0750,CUST9351,2024-11-15,South,Food,Groceries,1,257.6,0.02,252.45,37.32,Credit Card,Returning,Retail
+ORD0751,CUST3051,2024-08-08,North,Electronics,Smartphone,7,978.7,0.19,5549.23,758.75,UPI,New,Online
+ORD0752,CUST2047,2024-05-15,North,Food,Snacks,7,1121.0,0.16,6591.48,1400.29,Debit Card,New,Online
+ORD0753,CUST4378,2023-05-12,South,Sports,Cricket Bat,1,1118.35,0.24,849.95,63.41,Credit Card,Returning,Online
+ORD0754,CUST1001,2024-11-04,South,Electronics,Laptop,9,611.18,0.29,3905.44,329.31,UPI,New,Retail
+ORD0755,CUST9818,2023-12-27,South,Sports,Gym Kit,3,1162.6,0.21,2755.36,425.79,Credit Card,New,Online
+ORD0756,CUST4539,2024-09-08,East,Electronics,Smartphone,3,613.42,0.25,1380.19,333.29,UPI,New,Retail
+ORD0757,CUST5164,2023-03-27,West,Electronics,Headphones,5,775.93,0.27,2832.14,368.21,Debit Card,New,Online
+ORD0758,CUST7876,2023-06-17,South,Furniture,Table,6,1136.01,0.19,5521.01,840.77,UPI,Returning,Retail
+ORD0759,CUST2080,2024-02-21,East,Electronics,Smartphone,2,554.85,0.16,932.15,174.12,Credit Card,Returning,Retail
+ORD0760,CUST7203,2023-08-16,North,Furniture,Table,4,561.82,0.03,2179.86,536.02,Credit Card,New,Retail
+ORD0761,CUST5440,2024-07-18,North,Sports,Gym Kit,2,1067.34,0.21,1686.4,376.2,Credit Card,New,Retail
+ORD0762,CUST7597,2024-07-18,West,Food,Beverages,6,1616.05,0.2,7757.04,1611.52,Net Banking,New,Retail
+ORD0763,CUST7064,2024-10-16,South,Electronics,Smartphone,3,302.49,0.17,753.2,77.94,Net Banking,Returning,Retail
+ORD0764,CUST9529,2024-03-14,South,Clothing,Shoes,6,1600.97,0.15,8164.95,858.66,UPI,New,Retail
+ORD0765,CUST3705,2023-04-06,North,Food,Groceries,2,1276.66,0.02,2502.25,245.24,Credit Card,Returning,Retail
+ORD0766,CUST9722,2024-12-02,North,Electronics,Tablet,9,1866.23,0.04,16124.23,2411.56,Cash,New,Online
+ORD0767,CUST1693,2024-06-24,West,Electronics,Tablet,9,1504.34,0.07,12591.33,2490.52,Debit Card,New,Online
+ORD0768,CUST3793,2024-01-24,East,Electronics,Headphones,3,1037.1,0.29,2209.02,297.21,Credit Card,Returning,Online
+ORD0769,CUST7449,2024-10-08,South,Sports,Football,5,612.37,0.09,2786.28,258.05,UPI,New,Retail
+ORD0770,CUST2755,2023-12-29,North,Sports,Gym Kit,1,724.37,0.18,593.98,68.73,UPI,New,Retail
+ORD0771,CUST7729,2023-06-07,North,Furniture,Chair,2,872.99,0.06,1641.22,255.73,Cash,New,Online
+ORD0772,CUST9788,2023-07-06,East,Furniture,Table,8,802.81,0.09,5844.46,792.91,Credit Card,Returning,Retail
+ORD0773,CUST4251,2024-12-27,North,Clothing,Jeans,6,1499.24,0.0,8995.44,2039.4,Debit Card,Returning,Online
+ORD0774,CUST8852,2023-07-23,East,Clothing,Shoes,7,1492.97,0.27,7629.08,626.06,Credit Card,Returning,Retail
+ORD0775,CUST7370,2024-05-28,South,Sports,Gym Kit,3,663.28,0.23,1532.18,346.81,Credit Card,New,Online
+ORD0776,CUST6605,2024-11-25,West,Clothing,Jeans,6,1010.0,0.23,4666.2,454.03,Net Banking,New,Retail
+ORD0777,CUST9376,2023-06-06,South,Food,Groceries,5,982.14,0.23,3781.24,376.42,Debit Card,Returning,Online
+ORD0778,CUST9230,2024-12-18,South,Furniture,Table,7,412.86,0.21,2283.12,484.0,Debit Card,New,Online
+ORD0779,CUST1289,2024-03-12,South,Electronics,Smartphone,7,95.97,0.3,470.25,110.89,Credit Card,New,Retail
+ORD0780,CUST1846,2024-03-13,East,Food,Groceries,4,459.11,0.13,1597.7,99.49,Credit Card,Returning,Retail
+ORD0781,CUST1854,2023-01-01,East,Furniture,Sofa,7,509.0,0.27,2600.99,224.6,Debit Card,Returning,Retail
+ORD0782,CUST2827,2023-11-08,North,Furniture,Chair,7,385.98,0.28,1945.34,238.72,Credit Card,New,Retail
+ORD0783,CUST7292,2023-08-04,North,Furniture,Sofa,10,1067.15,0.11,9497.64,1710.05,Credit Card,New,Online
+ORD0784,CUST6618,2024-07-13,East,Electronics,Smartphone,4,1415.23,0.28,4075.86,264.83,Cash,New,Online
+ORD0785,CUST6690,2024-07-27,East,Electronics,Smartphone,4,848.06,0.21,2679.87,611.86,Cash,New,Retail
+ORD0786,CUST5491,2023-06-20,South,Electronics,Tablet,7,1057.05,0.29,5253.54,1093.67,UPI,New,Online
+ORD0787,CUST8172,2023-06-19,West,Clothing,Shoes,8,1375.69,0.26,8144.08,1989.66,Net Banking,Returning,Retail
+ORD0788,CUST1145,2024-12-14,West,Sports,Tennis Racket,4,384.45,0.05,1460.91,136.68,Net Banking,Returning,Retail
+ORD0789,CUST5781,2023-09-01,North,Clothing,Jacket,5,1113.26,0.05,5287.98,312.64,Debit Card,Returning,Online
+ORD0790,CUST6692,2024-10-26,East,Furniture,Chair,4,1979.28,0.06,7442.09,545.04,UPI,New,Retail
+ORD0791,CUST6824,2023-01-11,South,Clothing,Shoes,10,603.89,0.3,4227.23,740.57,UPI,New,Retail
+ORD0792,CUST4377,2024-09-10,West,Electronics,Laptop,7,1892.4,0.08,12187.06,2135.73,Debit Card,Returning,Retail
+ORD0793,CUST8848,2023-06-01,North,Clothing,Shoes,3,903.19,0.22,2113.46,289.08,Cash,New,Retail
+ORD0794,CUST1344,2023-10-16,East,Clothing,Jeans,4,1147.92,0.28,3306.01,284.59,Debit Card,New,Retail
+ORD0795,CUST7594,2024-10-22,North,Sports,Cricket Bat,2,304.17,0.13,529.26,74.63,Net Banking,New,Online
+ORD0796,CUST1716,2024-10-21,South,Sports,Football,7,780.3,0.03,5298.24,279.27,Debit Card,New,Retail
+ORD0797,CUST2392,2023-12-13,South,Clothing,T-Shirt,1,1916.08,0.03,1858.6,366.56,Debit Card,Returning,Retail
+ORD0798,CUST9906,2023-10-01,North,Clothing,Jacket,6,968.24,0.07,5402.78,857.45,Credit Card,New,Online
+ORD0799,CUST1393,2023-08-18,South,Sports,Tennis Racket,2,1032.85,0.25,1549.27,121.41,Cash,Returning,Online
+ORD0800,CUST9057,2023-04-26,South,Furniture,Sofa,4,1844.95,0.21,5830.04,1092.28,Credit Card,New,Online
+ORD0801,CUST1710,2023-03-28,South,Furniture,Sofa,2,1239.08,0.04,2379.03,558.27,Debit Card,Returning,Retail
+ORD0802,CUST6707,2023-10-21,North,Sports,Cricket Bat,7,317.44,0.2,1777.66,196.1,UPI,Returning,Retail
+ORD0803,CUST6247,2023-05-31,South,Furniture,Chair,1,1726.19,0.29,1225.59,251.93,Cash,Returning,Retail
+ORD0804,CUST3089,2023-11-27,South,Electronics,Laptop,10,866.36,0.22,6757.61,533.4,Cash,Returning,Retail
+ORD0805,CUST3264,2023-12-08,South,Food,Bakery,8,1392.97,0.12,9806.51,2046.62,Cash,Returning,Retail
+ORD0806,CUST9633,2024-03-07,South,Sports,Gym Kit,9,1081.7,0.07,9053.83,604.1,Credit Card,New,Retail
+ORD0807,CUST1976,2023-04-23,East,Electronics,Smartphone,1,737.55,0.14,634.29,48.66,UPI,New,Retail
+ORD0808,CUST1915,2023-08-18,South,Food,Beverages,9,1944.2,0.27,12773.39,1258.17,Credit Card,New,Retail
+ORD0809,CUST3591,2024-05-03,North,Electronics,Tablet,6,127.09,0.03,739.66,123.02,Debit Card,Returning,Online
+ORD0810,CUST8696,2023-07-06,South,Electronics,Smartphone,2,44.71,0.25,67.06,8.94,Net Banking,Returning,Retail
+ORD0811,CUST1983,2023-06-09,North,Food,Groceries,8,1567.17,0.21,9904.51,1063.29,Net Banking,New,Online
+ORD0812,CUST9222,2023-09-22,East,Electronics,Tablet,7,1366.21,0.26,7076.97,1138.2,Debit Card,Returning,Online
+ORD0813,CUST1917,2024-02-15,South,Furniture,Chair,9,767.57,0.29,4904.77,974.22,Cash,New,Online
+ORD0814,CUST7086,2023-02-25,West,Food,Bakery,6,1312.35,0.12,6929.21,873.73,Debit Card,Returning,Online
+ORD0815,CUST3666,2023-10-16,North,Electronics,Laptop,6,1214.32,0.25,5464.44,303.88,Credit Card,New,Online
+ORD0816,CUST1735,2023-03-29,West,Furniture,Table,9,419.42,0.28,2717.84,266.53,Credit Card,New,Retail
+ORD0817,CUST4192,2024-05-27,East,Electronics,Headphones,1,1961.47,0.23,1510.33,365.12,Cash,Returning,Online
+ORD0818,CUST1388,2023-06-03,West,Electronics,Headphones,7,1795.09,0.15,10680.79,1606.77,Cash,New,Retail
+ORD0819,CUST4533,2023-08-26,South,Clothing,Jeans,8,175.93,0.19,1140.03,274.25,Debit Card,Returning,Retail
+ORD0820,CUST7350,2024-12-30,South,Clothing,Jacket,5,733.43,0.26,2713.69,369.55,Debit Card,New,Online
+ORD0821,CUST2428,2024-07-14,West,Sports,Gym Kit,2,1613.36,0.04,3097.65,694.16,Credit Card,Returning,Retail
+ORD0822,CUST3935,2023-03-14,West,Clothing,Jacket,3,154.96,0.17,385.85,46.56,UPI,Returning,Retail
+ORD0823,CUST7568,2023-10-21,West,Food,Beverages,2,1943.93,0.15,3304.68,405.47,Net Banking,New,Retail
+ORD0824,CUST1699,2024-11-29,North,Furniture,Sofa,6,185.31,0.12,978.44,137.0,Debit Card,New,Online
+ORD0825,CUST8573,2024-02-02,North,Electronics,Headphones,7,333.25,0.12,2052.82,132.6,UPI,Returning,Retail
+ORD0826,CUST8096,2024-02-11,South,Sports,Gym Kit,2,189.93,0.22,296.29,69.18,Cash,Returning,Online
+ORD0827,CUST8447,2023-10-13,North,Furniture,Sofa,10,982.86,0.21,7764.59,1127.76,Net Banking,New,Retail
+ORD0828,CUST6922,2023-03-05,West,Clothing,Jeans,6,1145.05,0.3,4809.21,985.12,Cash,New,Online
+ORD0829,CUST5487,2023-03-12,West,Clothing,T-Shirt,7,554.3,0.19,3142.88,209.69,Credit Card,Returning,Retail
+ORD0830,CUST6603,2024-03-14,East,Food,Beverages,5,384.48,0.02,1883.95,431.41,Debit Card,New,Retail
+ORD0831,CUST6811,2024-03-23,West,Food,Bakery,8,1080.3,0.24,6568.22,1596.85,Credit Card,New,Online
+ORD0832,CUST1232,2023-11-21,South,Sports,Cricket Bat,6,1334.84,0.25,6006.78,1182.56,Cash,New,Retail
+ORD0833,CUST8361,2023-05-09,North,Furniture,Chair,7,540.35,0.22,2950.31,730.64,Credit Card,New,Online
+ORD0834,CUST1235,2024-11-26,East,Food,Beverages,10,767.56,0.1,6908.04,1661.21,UPI,New,Retail
+ORD0835,CUST9887,2023-12-27,West,Furniture,Chair,8,1304.85,0.14,8977.37,1185.71,Net Banking,Returning,Online
+ORD0836,CUST7251,2024-03-22,East,Clothing,Shoes,7,758.78,0.17,4408.51,363.84,Cash,Returning,Online
+ORD0837,CUST9924,2024-05-23,North,Electronics,Laptop,2,1306.26,0.18,2142.27,283.33,Cash,New,Retail
+ORD0838,CUST3038,2024-04-25,East,Food,Beverages,4,1558.22,0.17,5173.29,377.13,Cash,Returning,Retail
+ORD0839,CUST7794,2023-11-11,South,Electronics,Headphones,4,1024.97,0.08,3771.89,685.49,Credit Card,Returning,Online
+ORD0840,CUST6201,2024-09-06,East,Electronics,Laptop,3,1585.21,0.25,3566.72,548.54,Debit Card,Returning,Online
+ORD0841,CUST8030,2024-08-14,South,Sports,Gym Kit,4,1240.21,0.12,4365.54,263.31,Cash,New,Retail
+ORD0842,CUST7422,2023-05-02,East,Furniture,Table,7,477.32,0.21,2639.58,198.67,Net Banking,New,Retail
+ORD0843,CUST1455,2023-06-06,North,Clothing,T-Shirt,2,70.77,0.0,141.54,28.88,Net Banking,Returning,Online
+ORD0844,CUST9772,2023-07-18,South,Clothing,Shoes,6,389.38,0.2,1869.02,176.34,Cash,Returning,Online
+ORD0845,CUST2817,2023-04-16,West,Furniture,Chair,3,1262.33,0.19,3067.46,508.8,Net Banking,New,Online
+ORD0846,CUST4407,2024-01-06,West,Clothing,Jacket,5,1791.32,0.03,8687.9,1293.19,Credit Card,Returning,Online
+ORD0847,CUST6137,2024-01-20,West,Food,Snacks,8,1919.25,0.02,15046.92,2820.81,Debit Card,New,Retail
+ORD0848,CUST6681,2023-12-18,West,Electronics,Smartphone,10,1269.8,0.26,9396.52,690.09,Net Banking,New,Online
+ORD0849,CUST3496,2024-06-08,South,Sports,Tennis Racket,2,401.83,0.01,795.62,43.45,UPI,New,Online
+ORD0850,CUST5483,2023-10-02,West,Electronics,Headphones,3,455.13,0.22,1065.0,253.44,Debit Card,New,Retail
+ORD0851,CUST4163,2024-02-14,East,Sports,Tennis Racket,8,1495.49,0.15,10169.33,1551.14,Debit Card,New,Retail
+ORD0852,CUST8992,2023-07-30,West,Food,Snacks,10,1590.44,0.18,13041.61,1084.16,Cash,Returning,Retail
+ORD0853,CUST2052,2024-10-09,West,Furniture,Chair,10,778.43,0.06,7317.24,882.34,Debit Card,New,Retail
+ORD0854,CUST6771,2024-06-27,West,Sports,Gym Kit,5,1215.69,0.26,4498.05,1079.87,Credit Card,New,Online
+ORD0855,CUST3376,2024-01-16,East,Furniture,Bed,3,728.33,0.02,2141.29,388.41,Credit Card,New,Retail
+ORD0856,CUST2085,2024-07-29,West,Electronics,Headphones,4,941.45,0.24,2862.01,657.54,UPI,New,Online
+ORD0857,CUST7909,2024-08-10,West,Electronics,Headphones,10,1893.62,0.24,14391.51,2651.91,UPI,Returning,Online
+ORD0858,CUST8418,2023-05-08,South,Clothing,T-Shirt,8,1007.33,0.3,5641.05,757.3,Net Banking,Returning,Retail
+ORD0859,CUST8565,2023-01-05,East,Clothing,T-Shirt,5,55.32,0.23,212.98,35.17,Debit Card,Returning,Online
+ORD0860,CUST5931,2024-03-01,East,Sports,Football,6,1296.66,0.02,7624.36,526.26,UPI,Returning,Retail
+ORD0861,CUST9082,2024-04-10,North,Electronics,Headphones,8,1232.39,0.12,8676.03,1642.3,UPI,New,Online
+ORD0862,CUST4708,2024-03-22,South,Clothing,T-Shirt,1,294.69,0.3,206.28,45.85,Credit Card,New,Retail
+ORD0863,CUST2229,2023-11-08,East,Sports,Football,1,534.18,0.24,405.98,29.3,UPI,Returning,Retail
+ORD0864,CUST7771,2024-08-21,West,Clothing,Jeans,10,932.17,0.04,8948.83,1990.03,Credit Card,New,Retail
+ORD0865,CUST2356,2023-10-31,East,Food,Groceries,6,1549.84,0.14,7997.17,546.69,Net Banking,New,Online
+ORD0866,CUST4078,2024-01-30,West,Electronics,Laptop,8,139.33,0.0,1114.64,103.91,Credit Card,Returning,Online
+ORD0867,CUST3130,2023-04-19,South,Sports,Tennis Racket,5,1422.85,0.2,5691.4,1249.61,UPI,Returning,Retail
+ORD0868,CUST2672,2023-11-11,South,Sports,Cricket Bat,7,392.15,0.08,2525.45,209.21,Cash,New,Online
+ORD0869,CUST6766,2024-04-08,East,Clothing,T-Shirt,8,390.32,0.01,3091.33,563.79,Credit Card,New,Retail
+ORD0870,CUST5466,2024-03-27,East,Food,Beverages,3,805.92,0.13,2103.45,245.57,Credit Card,New,Retail
+ORD0871,CUST9087,2024-09-14,West,Food,Beverages,5,395.11,0.05,1876.77,197.41,Credit Card,New,Online
+ORD0872,CUST9718,2023-03-09,North,Electronics,Smartphone,2,125.21,0.01,247.92,25.59,UPI,New,Retail
+ORD0873,CUST4370,2024-05-22,South,Food,Bakery,2,455.38,0.25,683.07,128.65,Debit Card,Returning,Retail
+ORD0874,CUST6002,2024-05-03,South,Sports,Tennis Racket,1,206.6,0.15,175.61,33.38,Debit Card,Returning,Online
+ORD0875,CUST8011,2024-04-30,East,Clothing,Jeans,6,1801.74,0.04,10378.02,545.33,Credit Card,New,Retail
+ORD0876,CUST5055,2024-05-15,West,Electronics,Smartphone,1,1196.13,0.29,849.25,141.51,Credit Card,New,Online
+ORD0877,CUST2638,2023-04-07,East,Sports,Tennis Racket,4,1060.03,0.05,4028.11,319.5,UPI,Returning,Retail
+ORD0878,CUST6467,2023-11-05,West,Furniture,Sofa,8,522.0,0.14,3591.36,774.12,Credit Card,Returning,Online
+ORD0879,CUST8056,2023-09-08,East,Clothing,Shoes,4,1325.55,0.04,5090.11,761.31,Debit Card,New,Online
+ORD0880,CUST9632,2024-04-05,South,Food,Snacks,5,1756.75,0.2,7027.0,1615.12,UPI,Returning,Retail
+ORD0881,CUST3014,2023-12-18,West,Food,Bakery,5,632.46,0.01,3130.68,482.17,Cash,Returning,Retail
+ORD0882,CUST5747,2024-06-19,South,Electronics,Laptop,8,1855.92,0.04,14253.47,2653.78,UPI,Returning,Retail
+ORD0883,CUST1871,2023-05-07,West,Electronics,Headphones,1,918.64,0.07,854.34,183.76,UPI,New,Retail
+ORD0884,CUST3540,2024-05-29,North,Furniture,Chair,1,517.84,0.11,460.88,49.15,UPI,New,Online
+ORD0885,CUST7328,2024-11-25,West,Food,Snacks,5,453.34,0.14,1949.36,235.73,Cash,New,Retail
+ORD0886,CUST3280,2024-08-15,South,Furniture,Sofa,3,1136.54,0.2,2727.7,312.31,UPI,New,Retail
+ORD0887,CUST9942,2024-04-17,South,Sports,Cricket Bat,5,623.89,0.09,2838.7,668.3,Cash,Returning,Online
+ORD0888,CUST8006,2023-12-29,West,Clothing,Shoes,6,1017.55,0.21,4823.19,586.07,Cash,Returning,Retail
+ORD0889,CUST9391,2023-09-06,East,Electronics,Laptop,7,195.09,0.04,1311.0,303.33,Debit Card,Returning,Online
+ORD0890,CUST8540,2024-06-14,North,Food,Beverages,7,1346.76,0.14,8107.5,1642.57,Credit Card,New,Retail
+ORD0891,CUST1997,2023-12-06,North,Electronics,Headphones,10,212.85,0.09,1936.94,283.36,Net Banking,New,Online
+ORD0892,CUST3535,2024-11-22,East,Sports,Cricket Bat,9,1486.04,0.15,11368.21,1076.67,UPI,New,Retail
+ORD0893,CUST2587,2024-06-16,South,Sports,Cricket Bat,2,152.94,0.05,290.59,65.67,Debit Card,New,Retail
+ORD0894,CUST4849,2023-07-08,East,Electronics,Tablet,7,130.19,0.04,874.88,114.53,Net Banking,Returning,Online
+ORD0895,CUST9380,2023-06-24,South,Food,Beverages,1,385.92,0.25,289.44,52.53,Cash,Returning,Retail
+ORD0896,CUST2758,2024-12-15,West,Furniture,Chair,10,996.07,0.2,7968.56,1021.87,Cash,Returning,Online
+ORD0897,CUST8282,2023-02-04,North,Electronics,Headphones,8,257.85,0.12,1815.26,301.53,UPI,New,Retail
+ORD0898,CUST4453,2024-05-30,East,Food,Groceries,1,1963.87,0.11,1747.84,386.57,Net Banking,Returning,Online
+ORD0899,CUST5560,2023-05-24,East,Clothing,Jeans,6,1318.75,0.17,6567.38,931.89,Cash,New,Retail
+ORD0900,CUST9608,2024-11-05,East,Food,Bakery,10,1324.76,0.17,10995.51,2589.25,Debit Card,Returning,Retail
+ORD0901,CUST2740,2023-04-09,West,Sports,Gym Kit,2,108.96,0.26,161.26,13.2,Cash,Returning,Online
+ORD0902,CUST2014,2023-03-07,East,Clothing,T-Shirt,3,1461.76,0.12,3859.05,944.17,Credit Card,New,Online
+ORD0903,CUST8364,2023-04-21,West,Food,Groceries,10,1269.96,0.01,12572.6,1066.33,Debit Card,New,Online
+ORD0904,CUST9659,2024-03-20,South,Furniture,Bed,8,1364.12,0.07,10149.05,2013.88,Credit Card,New,Online
+ORD0905,CUST2179,2024-07-13,East,Clothing,T-Shirt,3,1788.72,0.11,4775.88,628.53,Debit Card,Returning,Online
+ORD0906,CUST2100,2023-05-22,West,Clothing,Shoes,9,717.17,0.19,5228.17,845.6,Cash,Returning,Online
+ORD0907,CUST1843,2023-08-25,East,Sports,Football,3,1569.13,0.09,4283.72,315.22,Credit Card,New,Retail
+ORD0908,CUST9755,2023-03-18,South,Furniture,Bed,6,154.55,0.26,686.2,167.17,Net Banking,Returning,Retail
+ORD0909,CUST1491,2023-09-27,North,Sports,Football,9,1401.09,0.03,12231.52,1763.73,UPI,Returning,Retail
+ORD0910,CUST2021,2024-11-10,South,Clothing,Jacket,1,295.79,0.16,248.46,48.89,Cash,New,Online
+ORD0911,CUST8844,2024-07-18,South,Furniture,Chair,7,1204.33,0.18,6912.85,457.07,UPI,New,Online
+ORD0912,CUST1351,2023-08-22,North,Electronics,Tablet,9,465.99,0.11,3732.58,543.16,Credit Card,New,Retail
+ORD0913,CUST7993,2024-12-19,South,Electronics,Tablet,1,786.51,0.11,699.99,52.53,Credit Card,Returning,Online
+ORD0914,CUST2507,2023-08-26,North,Sports,Tennis Racket,6,403.42,0.13,2105.85,129.69,Debit Card,Returning,Online
+ORD0915,CUST6146,2023-02-14,East,Electronics,Smartphone,1,171.69,0.04,164.82,14.19,Net Banking,New,Retail
+ORD0916,CUST4372,2024-07-10,West,Clothing,Shoes,8,1322.01,0.2,8460.86,552.29,UPI,New,Retail
+ORD0917,CUST6224,2023-10-01,North,Furniture,Sofa,9,599.51,0.2,4316.47,670.64,Credit Card,Returning,Retail
+ORD0918,CUST4777,2024-06-17,East,Sports,Gym Kit,5,175.32,0.27,639.92,139.68,Net Banking,New,Online
+ORD0919,CUST2871,2024-04-09,North,Furniture,Table,1,1956.26,0.21,1545.45,278.15,Cash,New,Retail
+ORD0920,CUST7290,2024-09-16,West,Furniture,Bed,5,1657.81,0.03,8040.38,850.82,Credit Card,Returning,Retail
+ORD0921,CUST5999,2023-02-23,North,Food,Snacks,4,427.35,0.06,1606.84,218.88,Net Banking,Returning,Online
+ORD0922,CUST8111,2023-12-16,West,Sports,Tennis Racket,5,1624.28,0.18,6659.55,1341.57,Credit Card,New,Retail
+ORD0923,CUST7247,2023-06-16,West,Furniture,Bed,7,1153.75,0.17,6703.29,1030.85,Debit Card,New,Online
+ORD0924,CUST7465,2024-08-07,North,Furniture,Sofa,2,1997.64,0.23,3076.37,335.83,Net Banking,Returning,Retail
+ORD0925,CUST3929,2023-09-28,West,Furniture,Sofa,10,44.43,0.09,404.31,73.65,Cash,New,Retail
+ORD0926,CUST7694,2023-08-12,North,Electronics,Tablet,1,1932.45,0.14,1661.91,363.73,Net Banking,New,Retail
+ORD0927,CUST9108,2023-09-23,South,Sports,Tennis Racket,2,892.07,0.08,1641.41,340.34,Debit Card,New,Online
+ORD0928,CUST6199,2024-03-26,North,Sports,Football,4,246.6,0.01,976.54,182.5,Net Banking,New,Online
+ORD0929,CUST4845,2023-02-15,East,Furniture,Sofa,1,1363.21,0.26,1008.78,121.73,Credit Card,New,Retail
+ORD0930,CUST7815,2024-11-28,North,Electronics,Laptop,4,424.0,0.17,1407.68,303.82,Cash,Returning,Online
+ORD0931,CUST7139,2024-10-29,West,Electronics,Headphones,10,1580.57,0.1,14225.13,1872.42,UPI,New,Online
+ORD0932,CUST4464,2024-09-15,East,Furniture,Chair,5,1862.01,0.27,6796.34,374.53,Net Banking,Returning,Online
+ORD0933,CUST4679,2023-03-21,West,Food,Snacks,3,774.56,0.3,1626.58,106.85,Net Banking,New,Online
+ORD0934,CUST5801,2024-08-12,South,Sports,Gym Kit,9,1050.27,0.1,8507.19,757.18,UPI,New,Retail
+ORD0935,CUST6929,2024-02-24,North,Clothing,Shoes,6,1501.41,0.03,8738.21,858.17,UPI,New,Retail
+ORD0936,CUST9808,2023-05-09,South,Food,Beverages,8,1576.88,0.07,11731.99,2529.0,Cash,New,Retail
+ORD0937,CUST9096,2023-06-01,South,Furniture,Sofa,6,253.57,0.12,1338.85,202.17,Debit Card,Returning,Online
+ORD0938,CUST3070,2023-04-14,North,Clothing,T-Shirt,7,541.48,0.17,3146.0,742.53,Cash,New,Online
+ORD0939,CUST3088,2023-12-29,West,Electronics,Smartphone,9,1736.42,0.28,11252.0,2597.55,Net Banking,New,Retail
+ORD0940,CUST2208,2023-02-16,East,Electronics,Headphones,6,1191.13,0.18,5860.36,1458.21,Cash,Returning,Retail
+ORD0941,CUST9345,2024-08-26,North,Food,Groceries,8,1406.23,0.22,8774.88,1708.83,Debit Card,New,Retail
+ORD0942,CUST4805,2023-04-10,East,Food,Bakery,6,888.4,0.15,4530.84,759.44,Cash,Returning,Online
+ORD0943,CUST1687,2023-05-27,South,Sports,Gym Kit,5,659.14,0.1,2966.13,254.15,Cash,Returning,Retail
+ORD0944,CUST3774,2023-08-18,East,Electronics,Headphones,5,347.87,0.09,1582.81,233.19,UPI,New,Online
+ORD0945,CUST1651,2023-01-29,South,Furniture,Table,2,429.55,0.25,644.33,129.49,Credit Card,Returning,Online
+ORD0946,CUST3067,2024-06-17,West,Furniture,Table,5,1884.78,0.17,7821.84,1536.35,UPI,New,Online
+ORD0947,CUST2908,2024-11-15,East,Food,Bakery,8,540.85,0.26,3201.83,796.02,Credit Card,New,Online
+ORD0948,CUST2213,2024-11-19,East,Furniture,Table,9,683.97,0.14,5293.93,1043.46,Credit Card,Returning,Online
+ORD0949,CUST1130,2023-02-06,South,Sports,Tennis Racket,4,1686.03,0.2,5395.3,1216.72,Debit Card,Returning,Online
+ORD0950,CUST3159,2023-10-17,South,Clothing,Jacket,8,319.84,0.24,1944.63,382.53,Credit Card,New,Online
+ORD0951,CUST5310,2024-03-04,West,Food,Snacks,8,1124.32,0.06,8454.89,723.93,Net Banking,New,Retail
+ORD0952,CUST7425,2024-05-16,East,Food,Beverages,5,1684.57,0.26,6232.91,1144.33,Net Banking,Returning,Retail
+ORD0953,CUST8326,2024-03-05,East,Electronics,Smartphone,2,1926.58,0.27,2812.81,570.4,Debit Card,Returning,Online
+ORD0954,CUST8925,2023-05-12,West,Clothing,Shoes,6,1328.01,0.1,7171.25,929.52,Net Banking,Returning,Online
+ORD0955,CUST6295,2023-03-04,East,Electronics,Headphones,5,1024.83,0.27,3740.63,772.69,UPI,Returning,Retail
+ORD0956,CUST6567,2023-08-13,North,Food,Bakery,7,536.18,0.02,3678.19,541.07,UPI,Returning,Retail
+ORD0957,CUST6401,2024-09-20,South,Clothing,Jeans,9,428.28,0.19,3122.16,747.99,Net Banking,New,Online
+ORD0958,CUST1806,2024-11-01,South,Food,Snacks,6,1826.21,0.23,8437.09,1354.82,UPI,New,Online
+ORD0959,CUST4532,2024-02-28,South,Sports,Gym Kit,4,594.57,0.05,2259.37,281.92,Credit Card,New,Online
+ORD0960,CUST1397,2023-11-05,South,Sports,Football,9,807.92,0.15,6180.59,503.03,Debit Card,New,Retail
+ORD0961,CUST2253,2023-03-28,North,Electronics,Tablet,7,279.76,0.22,1527.49,158.86,Net Banking,Returning,Online
+ORD0962,CUST6114,2024-09-12,East,Electronics,Smartphone,2,1477.03,0.24,2245.09,199.49,Cash,New,Retail
+ORD0963,CUST5771,2024-01-21,West,Furniture,Bed,4,217.36,0.29,617.3,102.0,Credit Card,New,Retail
+ORD0964,CUST1282,2024-01-27,West,Sports,Tennis Racket,8,583.16,0.21,3685.57,557.7,Cash,Returning,Online
+ORD0965,CUST8811,2024-01-14,North,Food,Beverages,10,1950.88,0.12,17167.74,1655.37,UPI,Returning,Online
+ORD0966,CUST2374,2023-09-13,South,Electronics,Laptop,9,355.13,0.26,2365.17,349.96,Cash,Returning,Online
+ORD0967,CUST6266,2023-02-07,West,Electronics,Tablet,5,835.48,0.22,3258.37,706.63,Credit Card,Returning,Online
+ORD0968,CUST8913,2024-04-17,North,Sports,Gym Kit,9,1009.63,0.29,6451.54,626.75,Credit Card,Returning,Online
+ORD0969,CUST2862,2024-03-24,North,Food,Beverages,1,340.94,0.22,265.93,22.14,Cash,Returning,Online
+ORD0970,CUST2926,2023-10-31,West,Sports,Gym Kit,3,1503.01,0.16,3787.59,491.94,UPI,Returning,Retail
+ORD0971,CUST7082,2023-07-29,East,Sports,Tennis Racket,10,1307.44,0.04,12551.42,1941.08,Cash,Returning,Online
+ORD0972,CUST3936,2024-03-02,South,Furniture,Table,3,1058.27,0.25,2381.11,123.73,Cash,New,Online
+ORD0973,CUST8679,2023-03-04,South,Furniture,Table,4,1394.21,0.16,4684.55,544.38,Credit Card,Returning,Online
+ORD0974,CUST6009,2024-08-21,East,Furniture,Chair,4,563.67,0.25,1691.01,378.14,Net Banking,Returning,Retail
+ORD0975,CUST5307,2023-07-02,North,Sports,Cricket Bat,2,1193.43,0.03,2315.25,215.99,Debit Card,Returning,Retail
+ORD0976,CUST4546,2023-08-26,North,Sports,Tennis Racket,10,1343.62,0.14,11555.13,966.24,Net Banking,New,Online
+ORD0977,CUST8203,2024-06-07,West,Clothing,Shoes,1,660.21,0.27,481.95,29.13,Cash,Returning,Retail
+ORD0978,CUST6816,2024-04-30,East,Sports,Football,4,1129.09,0.11,4019.56,510.91,Net Banking,Returning,Online
+ORD0979,CUST8235,2024-03-23,West,Sports,Cricket Bat,3,1892.07,0.25,4257.16,818.52,UPI,New,Retail
+ORD0980,CUST7948,2023-12-21,South,Furniture,Table,1,1734.95,0.26,1283.86,262.1,Net Banking,New,Retail
+ORD0981,CUST6085,2024-08-23,East,Furniture,Table,1,407.76,0.11,362.91,32.29,Credit Card,Returning,Retail
+ORD0982,CUST1719,2024-02-12,East,Sports,Football,10,560.6,0.19,4540.86,809.79,UPI,New,Online
+ORD0983,CUST2702,2024-07-12,North,Food,Bakery,8,364.07,0.22,2271.8,407.81,UPI,New,Online
+ORD0984,CUST2021,2024-10-14,East,Clothing,Jeans,2,850.75,0.25,1276.12,78.11,Credit Card,Returning,Online
+ORD0985,CUST3772,2024-12-27,East,Sports,Football,6,1677.8,0.25,7550.1,855.4,Net Banking,New,Retail
+ORD0986,CUST2375,2023-10-01,South,Food,Snacks,2,402.02,0.23,619.11,49.22,Cash,New,Retail
+ORD0987,CUST6098,2023-01-04,East,Sports,Cricket Bat,9,830.32,0.19,6053.03,1322.13,Net Banking,Returning,Online
+ORD0988,CUST2904,2023-04-01,North,Furniture,Bed,10,1675.49,0.03,16252.25,3836.42,Debit Card,New,Online
+ORD0989,CUST5042,2023-03-25,East,Furniture,Chair,3,1581.7,0.07,4412.94,551.2,Debit Card,New,Retail
+ORD0990,CUST4084,2023-08-20,East,Electronics,Tablet,5,372.45,0.04,1787.76,202.21,Debit Card,New,Retail
+ORD0991,CUST9569,2024-10-19,West,Furniture,Bed,5,202.98,0.11,903.26,110.85,Debit Card,New,Retail
+ORD0992,CUST6606,2023-08-01,East,Clothing,Jeans,7,706.9,0.24,3760.71,786.94,Credit Card,New,Retail
+ORD0993,CUST8785,2023-07-10,South,Clothing,Shoes,5,82.27,0.03,399.01,72.49,Cash,Returning,Retail
+ORD0994,CUST1129,2024-01-03,South,Sports,Gym Kit,10,1804.52,0.1,16240.68,1151.83,Cash,Returning,Retail
+ORD0995,CUST1356,2023-07-10,West,Furniture,Chair,3,1828.03,0.09,4990.52,715.48,Net Banking,Returning,Retail
+ORD0996,CUST7572,2024-11-25,East,Food,Bakery,4,520.1,0.11,1851.56,217.7,Credit Card,New,Online
+ORD0997,CUST3726,2024-06-08,East,Food,Bakery,5,1908.88,0.12,8399.07,467.92,Net Banking,New,Online
+ORD0998,CUST8515,2023-12-21,West,Clothing,Jacket,1,1941.24,0.09,1766.53,358.9,Debit Card,Returning,Online
+ORD0999,CUST8152,2023-07-28,North,Clothing,Jeans,3,616.54,0.02,1812.63,176.25,Debit Card,New,Retail
+ORD1000,CUST4481,2024-12-16,West,Electronics,Tablet,3,702.53,0.14,1812.53,339.59,Cash,Returning,Online
